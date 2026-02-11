@@ -1,0 +1,30 @@
+{
+    "neededUninstalledMods":  [
+
+                              ],
+    "neededInstalledMods":  [
+
+                            ],
+    "spawns":  [
+                   {
+                       "pokemon":  "fluttermane",
+                       "id":  "fluttermane-aether-1",
+                       "presets":  [
+                                       "natural"
+                                   ],
+                       "bucket":  "uncommon",
+                       "type":  "pokemon",
+                       "level":  "55-60",
+                       "spawnablePositionType":  "grounded",
+                       "weight":  2,
+                       "condition":  {
+                                         "biomes":  [
+                                                        "#aether:is_aether"
+                                                    ],
+                                         "timeRange":  "night"
+                                     }
+                   }
+               ],
+    "enabled":  true
+}
+

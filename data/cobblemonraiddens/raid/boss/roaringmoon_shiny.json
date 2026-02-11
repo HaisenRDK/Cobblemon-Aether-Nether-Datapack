@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "roaringmoon",
+                    "moves":  [
+                                  "fly",
+                                  "throatchop",
+                                  "roost",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "DRAGON",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

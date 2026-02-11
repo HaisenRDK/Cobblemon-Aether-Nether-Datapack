@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "wigglytuff",
+                    "moves":  [
+                                  "swallow",
+                                  "sweetkiss",
+                                  "wakeupslap",
+                                  "playrough"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

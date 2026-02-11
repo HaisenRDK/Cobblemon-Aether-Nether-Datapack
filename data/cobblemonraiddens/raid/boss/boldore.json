@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "boldore",
+                    "moves":  [
+                                  "rockblast",
+                                  "sandstorm",
+                                  "stoneedge",
+                                  "explosion"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10
+}
+

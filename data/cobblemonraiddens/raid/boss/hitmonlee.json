@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "hitmonlee",
+                    "moves":  [
+                                  "closecombat",
+                                  "reversal",
+                                  "highjumpkick",
+                                  "axekick"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

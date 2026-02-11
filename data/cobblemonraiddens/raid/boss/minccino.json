@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "minccino",
+                    "moves":  [
+                                  "tickle",
+                                  "slam",
+                                  "hypervoice",
+                                  "lastresort"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

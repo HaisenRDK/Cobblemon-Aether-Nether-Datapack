@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "manectric",
+                    "moves":  [
+                                  "charge",
+                                  "wildcharge",
+                                  "thunder",
+                                  "electricterrain"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

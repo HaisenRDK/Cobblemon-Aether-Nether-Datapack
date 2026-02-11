@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "corsola",
+                    "moves":  [
+                                  "powergem",
+                                  "earthpower",
+                                  "recover",
+                                  "mirrorcoat"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "aromatisse",
+                    "moves":  [
+                                  "calmmind",
+                                  "moonblast",
+                                  "skillswap",
+                                  "psychup"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FAIRY",
+    "weight":  10
+}
+

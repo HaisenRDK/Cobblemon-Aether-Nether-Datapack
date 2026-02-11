@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "umbreon",
+                    "moves":  [
+                                  "darkpulse",
+                                  "screech",
+                                  "meanlook",
+                                  "lastresort"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DARK",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

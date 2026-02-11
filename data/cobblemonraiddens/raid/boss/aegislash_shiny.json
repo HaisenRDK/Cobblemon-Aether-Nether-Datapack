@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "aegislash",
+                    "moves":  [
+                                  "shadowsneak",
+                                  "slash",
+                                  "swordsdance",
+                                  "tackle"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "STEEL",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

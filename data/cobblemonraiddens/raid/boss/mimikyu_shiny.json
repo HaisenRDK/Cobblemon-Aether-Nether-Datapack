@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "mimikyu",
+                    "moves":  [
+                                  "shadowclaw",
+                                  "charm",
+                                  "playrough",
+                                  "painsplit"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GHOST",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

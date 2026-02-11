@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "arceus",
+                    "moves":  [
+                                  "recover",
+                                  "hyperbeam",
+                                  "perishsong",
+                                  "judgment"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

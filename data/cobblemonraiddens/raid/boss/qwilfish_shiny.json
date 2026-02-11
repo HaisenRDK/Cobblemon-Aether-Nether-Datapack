@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "qwilfish",
+                    "moves":  [
+                                  "toxic",
+                                  "aquatail",
+                                  "acupressure",
+                                  "destinybond"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

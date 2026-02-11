@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "misdreavus",
+                    "moves":  [
+                                  "payback",
+                                  "shadowball",
+                                  "perishsong",
+                                  "powergem"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GHOST",
+    "weight":  10
+}
+

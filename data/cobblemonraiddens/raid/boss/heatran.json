@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "heatran",
+                    "moves":  [
+                                  "earthpower",
+                                  "heatwave",
+                                  "stoneedge",
+                                  "magmastorm"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

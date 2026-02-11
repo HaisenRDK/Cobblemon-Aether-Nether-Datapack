@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "typenull",
+                    "moves":  [
+                                  "xscissor",
+                                  "ironhead",
+                                  "takedown",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

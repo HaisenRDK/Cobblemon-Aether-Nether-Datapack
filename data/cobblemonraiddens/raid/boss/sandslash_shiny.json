@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "sandslash",
+                    "moves":  [
+                                  "gyroball",
+                                  "swordsdance",
+                                  "sandstorm",
+                                  "earthquake"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GROUND",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

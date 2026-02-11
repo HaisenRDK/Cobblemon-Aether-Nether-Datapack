@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "okidogi",
+                    "moves":  [
+                                  "brutalswing",
+                                  "crunch",
+                                  "superpower",
+                                  "gigaimpact"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "POISON",
+    "weight":  10
+}
+

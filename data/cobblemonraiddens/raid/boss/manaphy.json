@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "manaphy",
+                    "moves":  [
+                                  "aquaring",
+                                  "dive",
+                                  "raindance",
+                                  "takeheart"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

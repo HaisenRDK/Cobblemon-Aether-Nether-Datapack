@@ -1,0 +1,45 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "cobblemon:dusk_ball",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:love_ball",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:luxury_ball",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:quick_ball",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:repeat_ball",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:timer_ball",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:ultra_ball",
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:generic"
+}

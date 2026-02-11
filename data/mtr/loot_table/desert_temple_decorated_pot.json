@@ -1,0 +1,38 @@
+{
+    "pools":  [
+                  {
+                      "entries":  [
+                                      {
+                                          "value":  "cobblemon_aether_nether:generic/cobblemon/balls_t1",
+                                          "type":  "minecraft:loot_table",
+                                          "weight":  1
+                                      },
+                                      {
+                                          "value":  "cobblemon_aether_nether:generic/cobblemon/berries",
+                                          "type":  "minecraft:loot_table",
+                                          "weight":  1
+                                      },
+                                      {
+                                          "value":  "cobblemon_aether_nether:generic/cobblemon/medicine",
+                                          "type":  "minecraft:loot_table",
+                                          "weight":  1
+                                      },
+                                      {
+                                          "value":  "cobblemon_aether_nether:generic/cobblemon/held_items_t1",
+                                          "type":  "minecraft:loot_table",
+                                          "weight":  1
+                                      },
+                                      {
+                                          "value":  "cobblemon_aether_nether:generic/candy/candy_t1",
+                                          "type":  "minecraft:loot_table",
+                                          "weight":  1
+                                      }
+                                  ],
+                      "rolls":  {
+                                    "min":  2,
+                                    "max":  4
+                                }
+                  }
+              ],
+    "type":  "minecraft:chest"
+}

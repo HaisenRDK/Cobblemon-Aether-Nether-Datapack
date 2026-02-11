@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "zygarde",
+                    "moves":  [
+                                  "sandstorm",
+                                  "coil",
+                                  "earthquake",
+                                  "extremespeed"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "DRAGON",
+    "weight":  10
+}
+

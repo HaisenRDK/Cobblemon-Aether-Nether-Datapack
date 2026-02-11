@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "shroodle",
+                    "moves":  [
+                                  "taunt",
+                                  "substitute",
+                                  "knockoff",
+                                  "gunkshot"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "POISON",
+    "weight":  10
+}
+

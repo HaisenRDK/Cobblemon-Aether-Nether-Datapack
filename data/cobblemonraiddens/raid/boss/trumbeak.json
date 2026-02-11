@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "trumbeak",
+                    "moves":  [
+                                  "drillpeck",
+                                  "bulletseed",
+                                  "featherdance",
+                                  "hypervoice"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "ceruledge",
+                    "moves":  [
+                                  "allyswitch",
+                                  "bitterblade",
+                                  "psychocut",
+                                  "flareblitz"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

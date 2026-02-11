@@ -1,0 +1,155 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "cobblemon:antidote",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:awakening",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:berry_juice",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:burn_heal",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:casteliacone",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:elixir",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:energy_root",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:ether",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:full_heal",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:full_restore",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:heal_powder",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:hyper_potion",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:ice_heal",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:lava_cookie",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:lumiose_galette",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:max_elixir",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:max_ether",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:max_potion",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:max_revive",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:old_gateau",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:paralyze_heal",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:pewter_crunchies",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:potion",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:pp_max",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:pp_up",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:rage_candy_bar",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:revive",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:shalour_sable",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:super_potion",
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:generic"
+}

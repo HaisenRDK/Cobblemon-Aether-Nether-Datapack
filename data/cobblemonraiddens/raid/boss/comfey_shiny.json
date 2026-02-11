@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "comfey",
+                    "moves":  [
+                                  "playrough",
+                                  "sweetscent",
+                                  "petaldance",
+                                  "grassyterrain"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FAIRY",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

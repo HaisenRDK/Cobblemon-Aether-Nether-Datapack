@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "quilava",
+                    "moves":  [
+                                  "rollout",
+                                  "doubleedge",
+                                  "overheat",
+                                  "eruption"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

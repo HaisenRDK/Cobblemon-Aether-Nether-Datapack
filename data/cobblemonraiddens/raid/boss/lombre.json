@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "lombre",
+                    "moves":  [
+                                  "gigadrain",
+                                  "zenheadbutt",
+                                  "energyball",
+                                  "hydropump"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

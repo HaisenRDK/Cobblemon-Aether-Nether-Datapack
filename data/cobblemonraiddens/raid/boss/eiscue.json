@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "eiscue",
+                    "moves":  [
+                                  "snowscape",
+                                  "auroraveil",
+                                  "surf",
+                                  "blizzard"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ICE",
+    "weight":  10
+}
+

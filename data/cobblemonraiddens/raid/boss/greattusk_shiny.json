@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "greattusk",
+                    "moves":  [
+                                  "endeavor",
+                                  "megahorn",
+                                  "headsmash",
+                                  "headlongrush"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "GROUND",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

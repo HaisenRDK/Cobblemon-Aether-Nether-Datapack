@@ -1,0 +1,13 @@
+{
+    "pokemon":  {
+                    "species":  "cosmog",
+                    "moves":  [
+                                  "splash",
+                                  "teleport"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

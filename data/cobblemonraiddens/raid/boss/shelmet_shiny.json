@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "shelmet",
+                    "moves":  [
+                                  "bodyslam",
+                                  "recover",
+                                  "bugbuzz",
+                                  "finalgambit"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

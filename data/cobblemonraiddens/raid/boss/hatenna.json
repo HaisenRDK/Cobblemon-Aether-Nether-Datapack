@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "hatenna",
+                    "moves":  [
+                                  "dazzlinggleam",
+                                  "calmmind",
+                                  "psychic",
+                                  "healingwish"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

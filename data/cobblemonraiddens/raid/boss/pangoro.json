@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "pangoro",
+                    "moves":  [
+                                  "bodyslam",
+                                  "partingshot",
+                                  "entrainment",
+                                  "hammerarm"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

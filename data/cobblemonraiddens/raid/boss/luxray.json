@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "luxray",
+                    "moves":  [
+                                  "crunch",
+                                  "discharge",
+                                  "swagger",
+                                  "wildcharge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

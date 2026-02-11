@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "bombirdier",
+                    "moves":  [
+                                  "dualwingbeat",
+                                  "rockslide",
+                                  "knockoff",
+                                  "partingshot"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FLYING",
+    "weight":  10
+}
+

@@ -1,0 +1,380 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "cobblemon:assault_vest",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:binding_band",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:black_belt",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:black_glasses",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:bright_powder",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:bug_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:choice_band",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:choice_scarf",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:clear_amulet",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:clever_feather",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:covert_cloak",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:damp_rock",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:dark_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:deep_sea_tooth",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:dragon_fang",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:dragon_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:electric_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:electric_seed",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:expert_belt",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:fairy_feather",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:fairy_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:fighting_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:fire_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:flame_orb",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:flying_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:focus_band",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:focus_sash",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:genius_feather",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:ghost_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:grass_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:grassy_seed",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:grip_claw",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:ground_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:health_feather",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:heat_rock",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:heavy_duty_boots",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:ice_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:icy_rock",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:lagging_tail",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:life_orb",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:metal_powder",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:miracle_seed",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:misty_seed",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:muscle_band",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:muscle_feather",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:normal_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:poison_barb",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:poison_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:power_band",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:power_belt",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:power_lens",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:psychic_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:psychic_seed",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:quick_claw",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:quick_powder",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:resist_feather",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:rock_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:rocky_helmet",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:scope_lens",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:shell_bell",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:shell_helmet",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:silk_scarf",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:silver_powder",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:smooth_rock",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:soothe_bell",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:steel_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:sticky_barb",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:swift_feather",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:tasty_tail",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:toxic_orb",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:water_gem",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:wide_lens",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:wise_glasses",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:zoom_lens",
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:generic"
+}

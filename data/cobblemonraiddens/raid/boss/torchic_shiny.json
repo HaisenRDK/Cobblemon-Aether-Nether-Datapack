@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "torchic",
+                    "moves":  [
+                                  "flamethrower",
+                                  "featherdance",
+                                  "reversal",
+                                  "flareblitz"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

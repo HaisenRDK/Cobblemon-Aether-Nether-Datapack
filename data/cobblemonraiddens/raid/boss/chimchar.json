@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "chimchar",
+                    "moves":  [
+                                  "firespin",
+                                  "acrobatics",
+                                  "slackoff",
+                                  "flamethrower"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

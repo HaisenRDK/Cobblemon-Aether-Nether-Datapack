@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "dugtrio",
+                    "moves":  [
+                                  "dig",
+                                  "earthpower",
+                                  "earthquake",
+                                  "fissure"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GROUND",
+    "weight":  10
+}
+

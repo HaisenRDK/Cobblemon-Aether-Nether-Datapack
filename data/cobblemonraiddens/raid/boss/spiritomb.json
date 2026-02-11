@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "spiritomb",
+                    "moves":  [
+                                  "shadowball",
+                                  "darkpulse",
+                                  "hypnosis",
+                                  "dreameater"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GHOST",
+    "weight":  10
+}
+

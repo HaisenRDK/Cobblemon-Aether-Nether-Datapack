@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "ludicolo",
+                    "moves":  [
+                                  "teeterdance",
+                                  "watergun",
+                                  "watersport",
+                                  "zenheadbutt"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

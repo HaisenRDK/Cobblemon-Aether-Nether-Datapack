@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "lokix",
+                    "moves":  [
+                                  "suckerpunch",
+                                  "firstimpression",
+                                  "bounce",
+                                  "axekick"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

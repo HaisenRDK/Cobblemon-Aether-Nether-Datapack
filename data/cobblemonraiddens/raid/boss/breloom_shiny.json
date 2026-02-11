@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "breloom",
+                    "moves":  [
+                                  "brickbreak",
+                                  "seedbomb",
+                                  "dynamicpunch",
+                                  "focuspunch"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

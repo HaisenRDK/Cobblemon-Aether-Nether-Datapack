@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "scizor",
+                    "moves":  [
+                                  "irondefense",
+                                  "ironhead",
+                                  "xscissor",
+                                  "swordsdance"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

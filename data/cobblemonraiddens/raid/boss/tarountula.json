@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "tarountula",
+                    "moves":  [
+                                  "gastroacid",
+                                  "circlethrow",
+                                  "throatchop",
+                                  "skittersmack"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

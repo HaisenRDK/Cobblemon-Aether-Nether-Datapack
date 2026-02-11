@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "frosmoth",
+                    "moves":  [
+                                  "blizzard",
+                                  "tailwind",
+                                  "wideguard",
+                                  "quiverdance"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ICE",
+    "weight":  10
+}
+

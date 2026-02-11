@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "sunflora",
+                    "moves":  [
+                                  "doubleedge",
+                                  "sunnyday",
+                                  "leafstorm",
+                                  "petalblizzard"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

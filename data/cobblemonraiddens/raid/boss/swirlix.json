@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "swirlix",
+                    "moves":  [
+                                  "wish",
+                                  "playrough",
+                                  "cottonguard",
+                                  "endeavor"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FAIRY",
+    "weight":  10
+}
+

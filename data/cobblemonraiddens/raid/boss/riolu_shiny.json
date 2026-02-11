@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "riolu",
+                    "moves":  [
+                                  "helpinghand",
+                                  "copycat",
+                                  "finalgambit",
+                                  "reversal"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "FIGHTING",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

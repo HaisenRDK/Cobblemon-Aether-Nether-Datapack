@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "grubbin",
+                    "moves":  [
+                                  "stickyweb",
+                                  "xscissor",
+                                  "crunch",
+                                  "dig"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

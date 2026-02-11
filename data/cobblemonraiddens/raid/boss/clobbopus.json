@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "clobbopus",
+                    "moves":  [
+                                  "submission",
+                                  "taunt",
+                                  "reversal",
+                                  "superpower"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

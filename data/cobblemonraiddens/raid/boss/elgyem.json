@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "elgyem",
+                    "moves":  [
+                                  "recover",
+                                  "calmmind",
+                                  "wonderroom",
+                                  "psychic"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

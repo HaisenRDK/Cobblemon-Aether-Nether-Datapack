@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "mrrime",
+                    "moves":  [
+                                  "suckerpunch",
+                                  "freezedry",
+                                  "psychic",
+                                  "teeterdance"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ICE",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

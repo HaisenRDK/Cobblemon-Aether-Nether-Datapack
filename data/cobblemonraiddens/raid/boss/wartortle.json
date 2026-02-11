@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "wartortle",
+                    "moves":  [
+                                  "shellsmash",
+                                  "irondefense",
+                                  "hydropump",
+                                  "wavecrash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

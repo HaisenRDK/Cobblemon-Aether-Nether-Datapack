@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "guzzlord",
+                    "moves":  [
+                                  "dragonrush",
+                                  "belch",
+                                  "thrash",
+                                  "gigaimpact"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "DARK",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

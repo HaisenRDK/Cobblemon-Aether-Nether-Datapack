@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "braixen",
+                    "moves":  [
+                                  "psychic",
+                                  "sunnyday",
+                                  "magicroom",
+                                  "fireblast"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

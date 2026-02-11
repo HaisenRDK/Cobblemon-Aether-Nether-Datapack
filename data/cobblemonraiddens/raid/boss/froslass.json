@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "froslass",
+                    "moves":  [
+                                  "willowisp",
+                                  "auroraveil",
+                                  "shadowball",
+                                  "blizzard"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ICE",
+    "weight":  10
+}
+

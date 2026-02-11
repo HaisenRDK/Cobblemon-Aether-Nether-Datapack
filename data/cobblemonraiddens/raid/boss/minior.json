@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "minior",
+                    "moves":  [
+                                  "powergem",
+                                  "doubleedge",
+                                  "shellsmash",
+                                  "explosion"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10
+}
+

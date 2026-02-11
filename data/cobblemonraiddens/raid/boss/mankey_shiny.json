@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "mankey",
+                    "moves":  [
+                                  "screech",
+                                  "stompingtantrum",
+                                  "outrage",
+                                  "finalgambit"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIGHTING",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

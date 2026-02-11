@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "solgaleo",
+                    "moves":  [
+                                  "solarbeam",
+                                  "flareblitz",
+                                  "wideguard",
+                                  "gigaimpact"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "melmetal",
+                    "moves":  [
+                                  "dynamicpunch",
+                                  "superpower",
+                                  "doubleironbash",
+                                  "hyperbeam"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "STEEL",
+    "weight":  10
+}
+

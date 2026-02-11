@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "grimmsnarl",
+                    "moves":  [
+                                  "nastyplot",
+                                  "playrough",
+                                  "foulplay",
+                                  "hammerarm"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

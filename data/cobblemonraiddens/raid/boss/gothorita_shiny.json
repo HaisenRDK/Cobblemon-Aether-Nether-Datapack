@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "gothorita",
+                    "moves":  [
+                                  "psychup",
+                                  "flatter",
+                                  "futuresight",
+                                  "magicroom"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "PSYCHIC",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

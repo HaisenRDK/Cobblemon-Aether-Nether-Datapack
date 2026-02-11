@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "beheeyem",
+                    "moves":  [
+                                  "recover",
+                                  "calmmind",
+                                  "wonderroom",
+                                  "psychic"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "PSYCHIC",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

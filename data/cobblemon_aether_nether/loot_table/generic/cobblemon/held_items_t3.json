@@ -1,0 +1,125 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "cobblemon:ability_shield",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:assault_vest",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:choice_band",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:choice_scarf",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:choice_specs",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:covert_cloak",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:eviolite",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:exp_share",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:focus_sash",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:heavy_duty_boots",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:leftovers",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:life_orb",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:loaded_dice",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:lucky_egg",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:mirror_herb",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:protective_pads",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:punching_glove",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:rocky_helmet",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:safety_goggles",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:terrain_extender",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:throat_spray",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:toxic_orb",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:weakness_policy",
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:generic"
+}

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "yanma",
+                    "moves":  [
+                                  "screech",
+                                  "uturn",
+                                  "airslash",
+                                  "bugbuzz"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

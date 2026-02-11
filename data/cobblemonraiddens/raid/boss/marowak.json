@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "marowak",
+                    "moves":  [
+                                  "endeavor",
+                                  "bonemerang",
+                                  "thrash",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GROUND",
+    "weight":  10
+}
+

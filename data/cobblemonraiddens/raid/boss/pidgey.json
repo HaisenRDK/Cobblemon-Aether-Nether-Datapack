@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "pidgey",
+                    "moves":  [
+                                  "tailwind",
+                                  "mirrormove",
+                                  "airslash",
+                                  "hurricane"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "gougingfire",
+                    "moves":  [
+                                  "lavaplume",
+                                  "outrage",
+                                  "flareblitz",
+                                  "ragingfury"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "FIRE",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

@@ -1,0 +1,150 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "cobblemon:air_balloon",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:black_sludge",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:blunder_policy",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:cell_battery",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:destiny_knot",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:eject_button",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:eject_pack",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:everstone",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:expert_belt",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:flame_orb",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:focus_band",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:iron_ball",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:light_ball",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:light_clay",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:mental_herb",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:metal_powder",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:metronome",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:power_herb",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:quick_powder",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:red_card",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:ring_target",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:room_service",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:scope_lens",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:shed_shell",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:shell_bell",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:utility_umbrella",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:white_herb",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:wise_glasses",
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:generic"
+}

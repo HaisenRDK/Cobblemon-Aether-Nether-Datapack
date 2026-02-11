@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "magearna",
+                    "moves":  [
+                                  "flashcannon",
+                                  "painsplit",
+                                  "zapcannon",
+                                  "fleurcannon"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "STEEL",
+    "weight":  10
+}
+

@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "pichu",
+                    "moves":  [
+                                  "sweetkiss",
+                                  "nuzzle",
+                                  "nastyplot",
+                                  "charm"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "ELECTRIC",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

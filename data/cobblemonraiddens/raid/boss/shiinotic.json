@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "shiinotic",
+                    "moves":  [
+                                  "dazzlinggleam",
+                                  "spore",
+                                  "moonblast",
+                                  "dreameater"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

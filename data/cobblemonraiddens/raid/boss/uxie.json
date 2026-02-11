@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "uxie",
+                    "moves":  [
+                                  "futuresight",
+                                  "flail",
+                                  "memento",
+                                  "mysticalpower"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

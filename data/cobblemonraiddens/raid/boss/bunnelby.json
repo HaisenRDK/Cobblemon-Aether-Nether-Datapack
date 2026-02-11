@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "bunnelby",
+                    "moves":  [
+                                  "takedown",
+                                  "swordsdance",
+                                  "earthquake",
+                                  "superfang"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

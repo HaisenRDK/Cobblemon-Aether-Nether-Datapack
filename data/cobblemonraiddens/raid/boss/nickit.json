@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "nickit",
+                    "moves":  [
+                                  "suckerpunch",
+                                  "nightslash",
+                                  "tailslap",
+                                  "foulplay"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

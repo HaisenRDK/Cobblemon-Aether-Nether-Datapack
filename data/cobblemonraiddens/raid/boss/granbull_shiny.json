@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "granbull",
+                    "moves":  [
+                                  "lastresort",
+                                  "playrough",
+                                  "payback",
+                                  "crunch"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FAIRY",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

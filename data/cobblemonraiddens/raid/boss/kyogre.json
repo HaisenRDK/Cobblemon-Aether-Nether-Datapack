@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "kyogre",
+                    "moves":  [
+                                  "aquaring",
+                                  "hydropump",
+                                  "doubleedge",
+                                  "waterspout"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

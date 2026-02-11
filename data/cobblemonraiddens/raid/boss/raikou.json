@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "raikou",
+                    "moves":  [
+                                  "reflect",
+                                  "raindance",
+                                  "thunder",
+                                  "zapcannon"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "litleo",
+                    "moves":  [
+                                  "crunch",
+                                  "hypervoice",
+                                  "incinerate",
+                                  "overheat"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

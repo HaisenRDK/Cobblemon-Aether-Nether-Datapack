@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "poipole",
+                    "moves":  [
+                                  "nastyplot",
+                                  "poisonjab",
+                                  "gastroacid",
+                                  "toxic"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "POISON",
+    "weight":  10
+}
+

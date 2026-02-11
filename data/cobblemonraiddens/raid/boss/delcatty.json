@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "delcatty",
+                    "moves":  [
+                                  "playrough",
+                                  "sing",
+                                  "tackle",
+                                  "tailwhip"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

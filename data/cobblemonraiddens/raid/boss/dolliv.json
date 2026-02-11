@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "dolliv",
+                    "moves":  [
+                                  "seedbomb",
+                                  "energyball",
+                                  "leechseed",
+                                  "terrainpulse"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

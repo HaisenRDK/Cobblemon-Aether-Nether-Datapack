@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "cufant",
+                    "moves":  [
+                                  "ironhead",
+                                  "playrough",
+                                  "highhorsepower",
+                                  "superpower"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "STEEL",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "excadrill",
+                    "moves":  [
+                                  "swordsdance",
+                                  "drillrun",
+                                  "earthquake",
+                                  "fissure"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GROUND",
+    "weight":  10
+}
+

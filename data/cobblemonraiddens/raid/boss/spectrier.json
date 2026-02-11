@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "spectrier",
+                    "moves":  [
+                                  "thrash",
+                                  "disable",
+                                  "doubleedge",
+                                  "nastyplot"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "GHOST",
+    "weight":  10
+}
+

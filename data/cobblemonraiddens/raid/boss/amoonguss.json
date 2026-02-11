@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "amoonguss",
+                    "moves":  [
+                                  "toxic",
+                                  "ragepowder",
+                                  "solarbeam",
+                                  "spore"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

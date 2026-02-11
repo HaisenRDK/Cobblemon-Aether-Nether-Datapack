@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "regice",
+                    "moves":  [
+                                  "lockon",
+                                  "zapcannon",
+                                  "hyperbeam",
+                                  "explosion"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "ICE",
+    "weight":  10
+}
+

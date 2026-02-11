@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "crabrawler",
+                    "moves":  [
+                                  "crabhammer",
+                                  "irondefense",
+                                  "dynamicpunch",
+                                  "closecombat"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

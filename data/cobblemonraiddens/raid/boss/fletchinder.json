@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "fletchinder",
+                    "moves":  [
+                                  "tailwind",
+                                  "steelwing",
+                                  "roost",
+                                  "fly"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

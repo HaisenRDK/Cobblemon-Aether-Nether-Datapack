@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "regigigas",
+                    "moves":  [
+                                  "heavyslam",
+                                  "hammerarm",
+                                  "gigaimpact",
+                                  "crushgrip"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

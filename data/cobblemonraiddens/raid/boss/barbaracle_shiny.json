@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "barbaracle",
+                    "moves":  [
+                                  "razorshell",
+                                  "shellsmash",
+                                  "crosschop",
+                                  "stoneedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

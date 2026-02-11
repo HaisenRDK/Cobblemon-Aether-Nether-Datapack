@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "celebi",
+                    "moves":  [
+                                  "futuresight",
+                                  "healingwish",
+                                  "leafstorm",
+                                  "perishsong"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

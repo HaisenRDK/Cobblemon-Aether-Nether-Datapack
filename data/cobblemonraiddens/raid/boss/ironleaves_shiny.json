@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "ironleaves",
+                    "moves":  [
+                                  "imprison",
+                                  "megahorn",
+                                  "allyswitch",
+                                  "solarblade"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "GRASS",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

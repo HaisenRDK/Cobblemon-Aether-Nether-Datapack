@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "masquerain",
+                    "moves":  [
+                                  "airslash",
+                                  "gigadrain",
+                                  "bugbuzz",
+                                  "quiverdance"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

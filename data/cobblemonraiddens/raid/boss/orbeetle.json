@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "orbeetle",
+                    "moves":  [
+                                  "psychic",
+                                  "afteryou",
+                                  "calmmind",
+                                  "psychicterrain"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

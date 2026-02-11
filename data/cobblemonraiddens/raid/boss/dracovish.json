@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "dracovish",
+                    "moves":  [
+                                  "crunch",
+                                  "fishiousrend",
+                                  "dragonpulse",
+                                  "dragonrush"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

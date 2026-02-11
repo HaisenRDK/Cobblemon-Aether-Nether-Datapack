@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "flamigo",
+                    "moves":  [
+                                  "megakick",
+                                  "wideguard",
+                                  "throatchop",
+                                  "bravebird"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FLYING",
+    "weight":  10
+}
+

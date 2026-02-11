@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "frigibax",
+                    "moves":  [
+                                  "takedown",
+                                  "icebeam",
+                                  "crunch",
+                                  "iciclecrash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DRAGON",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

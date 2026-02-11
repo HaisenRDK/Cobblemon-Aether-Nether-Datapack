@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "dachsbun",
+                    "moves":  [
+                                  "doubleedge",
+                                  "charm",
+                                  "crunch",
+                                  "lastresort"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FAIRY",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

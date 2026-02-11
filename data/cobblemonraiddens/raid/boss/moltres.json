@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "moltres",
+                    "moves":  [
+                                  "hurricane",
+                                  "endure",
+                                  "burnup",
+                                  "skyattack"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "audino",
+                    "moves":  [
+                                  "doubleedge",
+                                  "entrainment",
+                                  "mistyterrain",
+                                  "lastresort"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

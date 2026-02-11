@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "crabominable",
+                    "moves":  [
+                                  "icehammer",
+                                  "irondefense",
+                                  "dynamicpunch",
+                                  "closecombat"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

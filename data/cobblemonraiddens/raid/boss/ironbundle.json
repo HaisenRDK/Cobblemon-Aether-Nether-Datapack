@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "ironbundle",
+                    "moves":  [
+                                  "snowscape",
+                                  "hydropump",
+                                  "auroraveil",
+                                  "blizzard"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "ICE",
+    "weight":  10
+}
+

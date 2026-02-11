@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "fuecoco",
+                    "moves":  [
+                                  "roar",
+                                  "flamethrower",
+                                  "hypervoice",
+                                  "fireblast"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

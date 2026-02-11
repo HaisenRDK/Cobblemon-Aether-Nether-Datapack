@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "vikavolt",
+                    "moves":  [
+                                  "guillotine",
+                                  "fly",
+                                  "agility",
+                                  "zapcannon"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

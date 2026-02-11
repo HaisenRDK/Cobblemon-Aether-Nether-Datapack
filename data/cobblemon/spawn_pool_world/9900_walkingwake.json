@@ -1,0 +1,29 @@
+{
+    "neededUninstalledMods":  [
+
+                              ],
+    "neededInstalledMods":  [
+
+                            ],
+    "spawns":  [
+                   {
+                       "pokemon":  "walkingwake",
+                       "id":  "walkingwake-aether-1",
+                       "presets":  [
+                                       "natural"
+                                   ],
+                       "bucket":  "ultra-rare",
+                       "type":  "pokemon",
+                       "level":  "55-60",
+                       "spawnablePositionType":  "grounded",
+                       "weight":  0.4,
+                       "condition":  {
+                                         "biomes":  [
+                                                        "#aether:is_aether"
+                                                    ]
+                                     }
+                   }
+               ],
+    "enabled":  true
+}
+

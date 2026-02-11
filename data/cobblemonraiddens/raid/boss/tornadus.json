@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "tornadus",
+                    "moves":  [
+                                  "raindance",
+                                  "hurricane",
+                                  "thrash",
+                                  "bleakwindstorm"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "FLYING",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+﻿{
+    "type":  "minecraft:chest",
+    "pools":  [
+                  {
+                      "entries":  [
+                                      {
+                                          "weight":  1,
+                                          "value":  "cobblemon_aether_nether:generic/dimension/structure_chests",
+                                          "type":  "minecraft:loot_table"
+                                      }
+                                  ],
+                      "rolls":  1
+                  }
+              ]
+}

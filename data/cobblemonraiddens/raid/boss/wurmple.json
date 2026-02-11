@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "wurmple",
+                    "moves":  [
+                                  "stringshot",
+                                  "tackle",
+                                  "poisonsting",
+                                  "bugbite"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

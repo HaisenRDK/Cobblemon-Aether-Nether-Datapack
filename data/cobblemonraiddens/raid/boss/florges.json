@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "florges",
+                    "moves":  [
+                                  "tackle",
+                                  "vinewhip",
+                                  "wish",
+                                  "moonblast"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FAIRY",
+    "weight":  10
+}
+

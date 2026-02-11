@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "meditite",
+                    "moves":  [
+                                  "powertrick",
+                                  "reversal",
+                                  "recover",
+                                  "counter"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "lapras",
+                    "moves":  [
+                                  "raindance",
+                                  "hydropump",
+                                  "perishsong",
+                                  "sheercold"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

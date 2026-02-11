@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "nidoking",
+                    "moves":  [
+                                  "poisonsting",
+                                  "thrash",
+                                  "toxic",
+                                  "toxicspikes"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "POISON",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

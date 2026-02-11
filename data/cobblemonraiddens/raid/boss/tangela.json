@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "tangela",
+                    "moves":  [
+                                  "tickle",
+                                  "powerwhip",
+                                  "ingrain",
+                                  "grassyterrain"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

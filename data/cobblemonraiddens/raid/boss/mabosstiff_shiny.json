@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "mabosstiff",
+                    "moves":  [
+                                  "reversal",
+                                  "jawlock",
+                                  "doubleedge",
+                                  "outrage"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DARK",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

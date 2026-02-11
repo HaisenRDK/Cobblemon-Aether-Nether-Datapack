@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "machamp",
+                    "moves":  [
+                                  "seismictoss",
+                                  "dynamicpunch",
+                                  "crosschop",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIGHTING",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

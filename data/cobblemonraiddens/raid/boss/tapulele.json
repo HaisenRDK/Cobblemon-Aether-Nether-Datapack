@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "tapulele",
+                    "moves":  [
+                                  "moonblast",
+                                  "tickle",
+                                  "skillswap",
+                                  "psychicterrain"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

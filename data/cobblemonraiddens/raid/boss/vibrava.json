@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "vibrava",
+                    "moves":  [
+                                  "earthquake",
+                                  "uproar",
+                                  "dragonrush",
+                                  "boomburst"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GROUND",
+    "weight":  10
+}
+

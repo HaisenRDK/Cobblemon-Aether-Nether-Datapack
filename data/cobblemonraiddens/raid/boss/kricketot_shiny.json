@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "kricketot",
+                    "moves":  [
+                                  "growl",
+                                  "tackle",
+                                  "strugglebug",
+                                  "bugbite"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

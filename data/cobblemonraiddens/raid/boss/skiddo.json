@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "skiddo",
+                    "moves":  [
+                                  "bulkup",
+                                  "doubleedge",
+                                  "hornleech",
+                                  "leafblade"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

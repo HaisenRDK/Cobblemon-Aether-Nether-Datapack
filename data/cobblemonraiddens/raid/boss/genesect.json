@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "genesect",
+                    "moves":  [
+                                  "zapcannon",
+                                  "lockon",
+                                  "technoblast",
+                                  "selfdestruct"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

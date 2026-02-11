@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "cobalion",
+                    "moves":  [
+                                  "sacredsword",
+                                  "swordsdance",
+                                  "ironhead",
+                                  "closecombat"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "STEEL",
+    "weight":  10
+}
+

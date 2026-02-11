@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "houndour",
+                    "moves":  [
+                                  "flamethrower",
+                                  "crunch",
+                                  "nastyplot",
+                                  "inferno"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "noibat",
+                    "moves":  [
+                                  "screech",
+                                  "roost",
+                                  "tailwind",
+                                  "hurricane"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FLYING",
+    "weight":  10
+}
+

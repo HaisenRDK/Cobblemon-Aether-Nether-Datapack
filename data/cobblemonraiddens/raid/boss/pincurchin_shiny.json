@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "pincurchin",
+                    "moves":  [
+                                  "poisonjab",
+                                  "zingzap",
+                                  "acupressure",
+                                  "discharge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

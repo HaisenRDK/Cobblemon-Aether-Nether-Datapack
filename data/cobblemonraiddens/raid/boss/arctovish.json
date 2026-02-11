@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "arctovish",
+                    "moves":  [
+                                  "crunch",
+                                  "fishiousrend",
+                                  "iciclecrash",
+                                  "blizzard"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "sableye",
+                    "moves":  [
+                                  "powergem",
+                                  "zenheadbutt",
+                                  "shadowball",
+                                  "foulplay"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "vulpix",
+                    "moves":  [
+                                  "firespin",
+                                  "safeguard",
+                                  "inferno",
+                                  "grudge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

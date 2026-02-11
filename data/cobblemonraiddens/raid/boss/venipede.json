@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "venipede",
+                    "moves":  [
+                                  "agility",
+                                  "toxic",
+                                  "venomdrench",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

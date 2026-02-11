@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "wobbuffet",
+                    "moves":  [
+                                  "encore",
+                                  "mirrorcoat",
+                                  "safeguard",
+                                  "splash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "goodra",
+                    "moves":  [
+                                  "curse",
+                                  "bodyslam",
+                                  "muddywater",
+                                  "powerwhip"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DRAGON",
+    "weight":  10
+}
+

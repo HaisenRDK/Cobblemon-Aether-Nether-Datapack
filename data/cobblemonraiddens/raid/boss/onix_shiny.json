@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "onix",
+                    "moves":  [
+                                  "dig",
+                                  "irontail",
+                                  "stoneedge",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "torkoal",
+                    "moves":  [
+                                  "amnesia",
+                                  "inferno",
+                                  "shellsmash",
+                                  "eruption"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

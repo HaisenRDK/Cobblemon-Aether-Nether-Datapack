@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "exeggcute",
+                    "moves":  [
+                                  "extrasensory",
+                                  "uproar",
+                                  "bestow",
+                                  "solarbeam"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

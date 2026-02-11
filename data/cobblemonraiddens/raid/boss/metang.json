@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "metang",
+                    "moves":  [
+                                  "meteormash",
+                                  "irondefense",
+                                  "agility",
+                                  "hyperbeam"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "STEEL",
+    "weight":  10
+}
+

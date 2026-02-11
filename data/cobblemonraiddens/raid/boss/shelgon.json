@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "shelgon",
+                    "moves":  [
+                                  "focusenergy",
+                                  "flamethrower",
+                                  "outrage",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DRAGON",
+    "weight":  10
+}
+

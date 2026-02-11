@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "trapinch",
+                    "moves":  [
+                                  "earthpower",
+                                  "earthquake",
+                                  "superpower",
+                                  "fissure"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GROUND",
+    "weight":  10
+}
+

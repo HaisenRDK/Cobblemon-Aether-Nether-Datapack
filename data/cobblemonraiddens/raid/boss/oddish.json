@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "oddish",
+                    "moves":  [
+                                  "moonblast",
+                                  "grassyterrain",
+                                  "moonlight",
+                                  "petaldance"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

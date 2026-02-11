@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "name": "cobblemon:beast_ball",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:dream_ball",
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:generic"
+}

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "entei",
+                    "moves":  [
+                                  "swagger",
+                                  "sunnyday",
+                                  "fireblast",
+                                  "eruption"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

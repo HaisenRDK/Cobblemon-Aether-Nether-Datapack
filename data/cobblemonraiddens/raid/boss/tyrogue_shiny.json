@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "tyrogue",
+                    "moves":  [
+                                  "focusenergy",
+                                  "foresight",
+                                  "helpinghand",
+                                  "tackle"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "FIGHTING",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

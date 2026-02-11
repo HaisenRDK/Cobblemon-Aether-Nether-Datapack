@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "eternatus",
+                    "moves":  [
+                                  "cosmicpower",
+                                  "recover",
+                                  "hyperbeam",
+                                  "eternabeam"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "POISON",
+    "weight":  10
+}
+

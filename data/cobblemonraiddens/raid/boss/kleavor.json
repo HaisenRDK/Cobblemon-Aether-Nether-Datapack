@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "kleavor",
+                    "moves":  [
+                                  "agility",
+                                  "rockslide",
+                                  "xscissor",
+                                  "swordsdance"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

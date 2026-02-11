@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "giratina",
+                    "moves":  [
+                                  "dragonclaw",
+                                  "earthpower",
+                                  "shadowforce",
+                                  "destinybond"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "GHOST",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "zekrom",
+                    "moves":  [
+                                  "thunder",
+                                  "imprison",
+                                  "outrage",
+                                  "boltstrike"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "DRAGON",
+    "weight":  10
+}
+

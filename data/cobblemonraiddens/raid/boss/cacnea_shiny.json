@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "cacnea",
+                    "moves":  [
+                                  "energyball",
+                                  "cottonspore",
+                                  "sandstorm",
+                                  "destinybond"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

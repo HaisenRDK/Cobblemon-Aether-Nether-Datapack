@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "cradily",
+                    "moves":  [
+                                  "spitup",
+                                  "stockpile",
+                                  "swallow",
+                                  "energyball"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10
+}
+

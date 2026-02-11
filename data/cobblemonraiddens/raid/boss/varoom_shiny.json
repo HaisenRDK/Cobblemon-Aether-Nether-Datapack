@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "varoom",
+                    "moves":  [
+                                  "poisonjab",
+                                  "uproar",
+                                  "spinout",
+                                  "gunkshot"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "STEEL",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

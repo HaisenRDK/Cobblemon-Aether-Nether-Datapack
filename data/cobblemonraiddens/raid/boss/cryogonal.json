@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "cryogonal",
+                    "moves":  [
+                                  "icebeam",
+                                  "acidarmor",
+                                  "solarbeam",
+                                  "sheercold"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ICE",
+    "weight":  10
+}
+

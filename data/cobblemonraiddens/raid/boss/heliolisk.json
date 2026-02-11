@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "heliolisk",
+                    "moves":  [
+                                  "thunderbolt",
+                                  "thundershock",
+                                  "thunderwave",
+                                  "voltswitch"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

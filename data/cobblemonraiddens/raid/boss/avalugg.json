@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "avalugg",
+                    "moves":  [
+                                  "takedown",
+                                  "blizzard",
+                                  "doubleedge",
+                                  "iciclecrash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ICE",
+    "weight":  10
+}
+

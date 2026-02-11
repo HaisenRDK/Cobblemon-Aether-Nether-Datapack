@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "squawkabilly",
+                    "moves":  [
+                                  "swagger",
+                                  "bravebird",
+                                  "roost",
+                                  "reversal"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

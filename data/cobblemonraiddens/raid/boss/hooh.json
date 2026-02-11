@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "hooh",
+                    "moves":  [
+                                  "fireblast",
+                                  "futuresight",
+                                  "skyattack",
+                                  "burnup"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

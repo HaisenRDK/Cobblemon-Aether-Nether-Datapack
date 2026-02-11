@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "dratini",
+                    "moves":  [
+                                  "raindance",
+                                  "dragondance",
+                                  "outrage",
+                                  "hyperbeam"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DRAGON",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "sizzlipede",
+                    "moves":  [
+                                  "crunch",
+                                  "firelash",
+                                  "lunge",
+                                  "burnup"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

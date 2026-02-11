@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "eelektross",
+                    "moves":  [
+                                  "tackle",
+                                  "thrash",
+                                  "zapcannon",
+                                  "wildcharge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

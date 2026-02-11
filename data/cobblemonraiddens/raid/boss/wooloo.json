@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "wooloo",
+                    "moves":  [
+                                  "guardswap",
+                                  "reversal",
+                                  "cottonguard",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

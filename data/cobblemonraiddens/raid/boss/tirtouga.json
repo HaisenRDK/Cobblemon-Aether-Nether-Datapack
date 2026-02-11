@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "tirtouga",
+                    "moves":  [
+                                  "aquatail",
+                                  "raindance",
+                                  "hydropump",
+                                  "shellsmash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

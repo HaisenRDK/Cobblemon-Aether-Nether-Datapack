@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "flabebe",
+                    "moves":  [
+                                  "mistyterrain",
+                                  "moonblast",
+                                  "petaldance",
+                                  "solarbeam"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FAIRY",
+    "weight":  10
+}
+

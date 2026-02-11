@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "mienshao",
+                    "moves":  [
+                                  "aurasphere",
+                                  "bounce",
+                                  "calmmind",
+                                  "highjumpkick"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

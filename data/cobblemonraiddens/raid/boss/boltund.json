@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "boltund",
+                    "moves":  [
+                                  "charge",
+                                  "wildcharge",
+                                  "playrough",
+                                  "electricterrain"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

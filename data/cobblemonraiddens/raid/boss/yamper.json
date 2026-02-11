@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "yamper",
+                    "moves":  [
+                                  "crunch",
+                                  "charge",
+                                  "wildcharge",
+                                  "playrough"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

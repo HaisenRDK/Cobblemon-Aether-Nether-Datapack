@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "ironvaliant",
+                    "moves":  [
+                                  "destinybond",
+                                  "quickguard",
+                                  "wideguard",
+                                  "spiritbreak"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "FAIRY",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "walkingwake",
+                    "moves":  [
+                                  "dragonpulse",
+                                  "outrage",
+                                  "flamethrower",
+                                  "hydropump"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "silvally",
+                    "moves":  [
+                                  "crunch",
+                                  "takedown",
+                                  "doubleedge",
+                                  "partingshot"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

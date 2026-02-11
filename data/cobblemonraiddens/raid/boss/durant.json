@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "durant",
+                    "moves":  [
+                                  "ironhead",
+                                  "entrainment",
+                                  "irondefense",
+                                  "guillotine"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

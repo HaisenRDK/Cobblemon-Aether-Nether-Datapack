@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "buzzwole",
+                    "moves":  [
+                                  "counter",
+                                  "hammerarm",
+                                  "superpower",
+                                  "focuspunch"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

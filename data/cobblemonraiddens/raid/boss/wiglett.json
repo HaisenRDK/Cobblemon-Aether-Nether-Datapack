@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "wiglett",
+                    "moves":  [
+                                  "dig",
+                                  "suckerpunch",
+                                  "throatchop",
+                                  "liquidation"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

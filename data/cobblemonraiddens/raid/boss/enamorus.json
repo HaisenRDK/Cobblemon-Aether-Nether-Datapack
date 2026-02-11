@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "enamorus",
+                    "moves":  [
+                                  "healingwish",
+                                  "moonblast",
+                                  "outrage",
+                                  "springtidestorm"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "FAIRY",
+    "weight":  10
+}
+

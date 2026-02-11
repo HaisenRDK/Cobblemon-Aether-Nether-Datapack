@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "noivern",
+                    "moves":  [
+                                  "roost",
+                                  "tailwind",
+                                  "hurricane",
+                                  "boomburst"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FLYING",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

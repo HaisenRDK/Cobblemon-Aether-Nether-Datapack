@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "igglybuff",
+                    "moves":  [
+                                  "sweetkiss",
+                                  "disarmingvoice",
+                                  "disable",
+                                  "charm"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

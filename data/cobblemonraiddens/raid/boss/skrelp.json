@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "skrelp",
+                    "moves":  [
+                                  "dragonpulse",
+                                  "aquatail",
+                                  "sludgebomb",
+                                  "hydropump"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "POISON",
+    "weight":  10
+}
+

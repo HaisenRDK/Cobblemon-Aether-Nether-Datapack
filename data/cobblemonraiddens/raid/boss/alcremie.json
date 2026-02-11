@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "alcremie",
+                    "moves":  [
+                                  "dazzlinggleam",
+                                  "recover",
+                                  "mistyterrain",
+                                  "entrainment"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FAIRY",
+    "weight":  10
+}
+

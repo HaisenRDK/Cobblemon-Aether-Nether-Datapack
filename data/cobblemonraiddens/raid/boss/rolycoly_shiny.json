@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "rolycoly",
+                    "moves":  [
+                                  "incinerate",
+                                  "stealthrock",
+                                  "heatcrash",
+                                  "rockblast"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

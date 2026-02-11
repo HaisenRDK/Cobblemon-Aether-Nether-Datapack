@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "tapufini",
+                    "moves":  [
+                                  "moonblast",
+                                  "hydropump",
+                                  "soak",
+                                  "mistyterrain"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#minecraft:is_overworld",
+    "#aether:is_aether",
+    "#minecraft:is_end",
+    "#stellarity:biomes/all"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "zarude",
+                    "moves":  [
+                                  "hammerarm",
+                                  "thrash",
+                                  "powerwhip",
+                                  "junglehealing"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

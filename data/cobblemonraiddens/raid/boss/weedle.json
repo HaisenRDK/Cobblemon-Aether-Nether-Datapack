@@ -1,0 +1,14 @@
+{
+    "pokemon":  {
+                    "species":  "weedle",
+                    "moves":  [
+                                  "poisonsting",
+                                  "stringshot",
+                                  "bugbite"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

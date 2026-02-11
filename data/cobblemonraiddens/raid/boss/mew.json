@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "mew",
+                    "moves":  [
+                                  "mefirst",
+                                  "transform",
+                                  "aurasphere",
+                                  "psychic"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

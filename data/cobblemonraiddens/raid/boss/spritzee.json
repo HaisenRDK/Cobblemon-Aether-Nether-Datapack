@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "spritzee",
+                    "moves":  [
+                                  "charm",
+                                  "calmmind",
+                                  "moonblast",
+                                  "skillswap"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FAIRY",
+    "weight":  10
+}
+

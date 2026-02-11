@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "cleffa",
+                    "moves":  [
+                                  "sweetkiss",
+                                  "disarmingvoice",
+                                  "encore",
+                                  "charm"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "FAIRY",
+    "weight":  10
+}
+

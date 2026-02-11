@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "kirlia",
+                    "moves":  [
+                                  "psychic",
+                                  "healpulse",
+                                  "dreameater",
+                                  "futuresight"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

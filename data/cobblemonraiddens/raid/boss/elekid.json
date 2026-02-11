@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "elekid",
+                    "moves":  [
+                                  "lowkick",
+                                  "thunderbolt",
+                                  "lightscreen",
+                                  "thunder"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

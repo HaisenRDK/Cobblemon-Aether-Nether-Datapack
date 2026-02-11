@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "metagross",
+                    "moves":  [
+                                  "meteormash",
+                                  "irondefense",
+                                  "agility",
+                                  "hyperbeam"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "STEEL",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "togepi",
+                    "moves":  [
+                                  "followme",
+                                  "batonpass",
+                                  "lastresort",
+                                  "wish"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "FAIRY",
+    "weight":  10
+}
+

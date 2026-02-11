@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:exp_candy_l",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:rare_candy",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 9
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:exp_candy_xl",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 49
+        }
+      ]
+    }
+  ]
+}

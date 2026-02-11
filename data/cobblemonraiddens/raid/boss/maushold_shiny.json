@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "maushold",
+                    "moves":  [
+                                  "charm",
+                                  "beatup",
+                                  "copycat",
+                                  "populationbomb"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

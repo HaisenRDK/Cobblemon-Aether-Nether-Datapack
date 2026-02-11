@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "mantyke",
+                    "moves":  [
+                                  "aquaring",
+                                  "bounce",
+                                  "takedown",
+                                  "hydropump"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

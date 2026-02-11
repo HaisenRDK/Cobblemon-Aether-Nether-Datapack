@@ -1,0 +1,29 @@
+{
+    "neededUninstalledMods":  [
+
+                              ],
+    "neededInstalledMods":  [
+
+                            ],
+    "spawns":  [
+                   {
+                       "pokemon":  "guzzlord",
+                       "id":  "guzzlord-aether-1",
+                       "presets":  [
+                                       "natural"
+                                   ],
+                       "bucket":  "rare",
+                       "type":  "pokemon",
+                       "level":  "55-60",
+                       "spawnablePositionType":  "grounded",
+                       "weight":  1,
+                       "condition":  {
+                                         "biomes":  [
+                                                        "#aether:is_aether"
+                                                    ]
+                                     }
+                   }
+               ],
+    "enabled":  true
+}
+

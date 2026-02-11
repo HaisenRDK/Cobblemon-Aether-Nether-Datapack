@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "azurill",
+                    "moves":  [
+                                  "bubblebeam",
+                                  "charm",
+                                  "slam",
+                                  "bounce"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "mawile",
+                    "moves":  [
+                                  "ironhead",
+                                  "taunt",
+                                  "faketears",
+                                  "playrough"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "STEEL",
+    "weight":  10
+}
+

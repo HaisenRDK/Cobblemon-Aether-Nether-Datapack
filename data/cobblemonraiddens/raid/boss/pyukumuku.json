@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "pyukumuku",
+                    "moves":  [
+                                  "recover",
+                                  "soak",
+                                  "toxic",
+                                  "memento"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

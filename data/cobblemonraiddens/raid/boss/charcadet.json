@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "charcadet",
+                    "moves":  [
+                                  "nightshade",
+                                  "flamecharge",
+                                  "incinerate",
+                                  "lavaplume"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

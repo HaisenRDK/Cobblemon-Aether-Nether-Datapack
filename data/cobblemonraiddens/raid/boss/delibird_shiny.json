@@ -1,0 +1,14 @@
+{
+    "pokemon":  {
+                    "species":  "delibird",
+                    "moves":  [
+                                  "present",
+                                  "drillpeck"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ICE",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

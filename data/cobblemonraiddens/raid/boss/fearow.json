@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "fearow",
+                    "moves":  [
+                                  "agility",
+                                  "focusenergy",
+                                  "roost",
+                                  "drillpeck"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

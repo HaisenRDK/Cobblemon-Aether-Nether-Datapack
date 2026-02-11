@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "scolipede",
+                    "moves":  [
+                                  "toxic",
+                                  "venomdrench",
+                                  "doubleedge",
+                                  "megahorn"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

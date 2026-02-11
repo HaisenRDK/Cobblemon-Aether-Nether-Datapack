@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "heracross",
+                    "moves":  [
+                                  "thrash",
+                                  "swordsdance",
+                                  "megahorn",
+                                  "closecombat"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

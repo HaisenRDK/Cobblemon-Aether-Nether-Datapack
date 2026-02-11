@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "lopunny",
+                    "moves":  [
+                                  "flatter",
+                                  "bounce",
+                                  "healingwish",
+                                  "highjumpkick"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

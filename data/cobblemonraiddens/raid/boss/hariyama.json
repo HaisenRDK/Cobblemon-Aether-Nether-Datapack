@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "hariyama",
+                    "moves":  [
+                                  "closecombat",
+                                  "reversal",
+                                  "heavyslam",
+                                  "headlongrush"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

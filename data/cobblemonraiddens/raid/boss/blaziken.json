@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "blaziken",
+                    "moves":  [
+                                  "bulkup",
+                                  "reversal",
+                                  "flareblitz",
+                                  "bravebird"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "leavanny",
+                    "moves":  [
+                                  "xscissor",
+                                  "entrainment",
+                                  "swordsdance",
+                                  "leafstorm"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

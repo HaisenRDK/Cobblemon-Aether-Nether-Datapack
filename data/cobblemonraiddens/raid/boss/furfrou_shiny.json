@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "furfrou",
+                    "moves":  [
+                                  "takedown",
+                                  "charm",
+                                  "suckerpunch",
+                                  "cottonguard"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

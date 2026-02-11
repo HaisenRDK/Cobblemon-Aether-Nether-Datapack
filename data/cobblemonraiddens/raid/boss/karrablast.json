@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "karrablast",
+                    "moves":  [
+                                  "swordsdance",
+                                  "takedown",
+                                  "bugbuzz",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

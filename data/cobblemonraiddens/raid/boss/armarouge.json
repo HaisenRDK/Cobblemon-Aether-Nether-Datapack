@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "armarouge",
+                    "moves":  [
+                                  "allyswitch",
+                                  "flamethrower",
+                                  "expandingforce",
+                                  "armorcannon"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

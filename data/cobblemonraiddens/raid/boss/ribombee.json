@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "ribombee",
+                    "moves":  [
+                                  "switcheroo",
+                                  "dazzlinggleam",
+                                  "bugbuzz",
+                                  "quiverdance"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

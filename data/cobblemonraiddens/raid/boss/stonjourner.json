@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "stonjourner",
+                    "moves":  [
+                                  "wideguard",
+                                  "heavyslam",
+                                  "stoneedge",
+                                  "megakick"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10
+}
+

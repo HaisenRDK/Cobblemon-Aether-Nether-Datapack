@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "tyrunt",
+                    "moves":  [
+                                  "dragonclaw",
+                                  "thrash",
+                                  "earthquake",
+                                  "horndrill"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10
+}
+

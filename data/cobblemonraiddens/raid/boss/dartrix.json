@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "dartrix",
+                    "moves":  [
+                                  "suckerpunch",
+                                  "leafblade",
+                                  "featherdance",
+                                  "bravebird"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

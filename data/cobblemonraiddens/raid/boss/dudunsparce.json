@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "dudunsparce",
+                    "moves":  [
+                                  "doubleedge",
+                                  "endeavor",
+                                  "hurricane",
+                                  "boomburst"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

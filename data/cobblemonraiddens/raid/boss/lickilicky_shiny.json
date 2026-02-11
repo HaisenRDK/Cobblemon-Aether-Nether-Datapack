@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "lickilicky",
+                    "moves":  [
+                                  "screech",
+                                  "slam",
+                                  "powerwhip",
+                                  "bellydrum"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

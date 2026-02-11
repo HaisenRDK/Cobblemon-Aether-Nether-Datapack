@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "sandygast",
+                    "moves":  [
+                                  "shadowball",
+                                  "earthpower",
+                                  "shoreup",
+                                  "sandstorm"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GHOST",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "magby",
+                    "moves":  [
+                                  "lowkick",
+                                  "flamethrower",
+                                  "sunnyday",
+                                  "fireblast"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

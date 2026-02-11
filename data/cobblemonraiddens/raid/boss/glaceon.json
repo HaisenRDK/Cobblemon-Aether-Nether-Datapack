@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "glaceon",
+                    "moves":  [
+                                  "freezedry",
+                                  "mirrorcoat",
+                                  "blizzard",
+                                  "lastresort"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ICE",
+    "weight":  10
+}
+

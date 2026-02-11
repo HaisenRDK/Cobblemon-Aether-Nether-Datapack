@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "sneasel",
+                    "moves":  [
+                                  "beatup",
+                                  "agility",
+                                  "screech",
+                                  "slash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

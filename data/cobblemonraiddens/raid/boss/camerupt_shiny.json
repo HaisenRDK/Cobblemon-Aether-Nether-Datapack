@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "camerupt",
+                    "moves":  [
+                                  "curse",
+                                  "takedown",
+                                  "yawn",
+                                  "earthquake"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "FIRE",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

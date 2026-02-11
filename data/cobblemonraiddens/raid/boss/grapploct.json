@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "grapploct",
+                    "moves":  [
+                                  "taunt",
+                                  "reversal",
+                                  "superpower",
+                                  "topsyturvy"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

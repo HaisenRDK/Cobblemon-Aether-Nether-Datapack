@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "pancham",
+                    "moves":  [
+                                  "crunch",
+                                  "bodyslam",
+                                  "partingshot",
+                                  "entrainment"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "piloswine",
+                    "moves":  [
+                                  "takedown",
+                                  "earthquake",
+                                  "blizzard",
+                                  "thrash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ICE",
+    "weight":  10
+}
+

@@ -1,0 +1,14 @@
+{
+    "pokemon":  {
+                    "species":  "gimmighoul",
+                    "moves":  [
+                                  "astonish",
+                                  "tackle"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GHOST",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

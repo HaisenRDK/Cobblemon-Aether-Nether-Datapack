@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "clauncher",
+                    "moves":  [
+                                  "aurasphere",
+                                  "bounce",
+                                  "muddywater",
+                                  "crabhammer"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

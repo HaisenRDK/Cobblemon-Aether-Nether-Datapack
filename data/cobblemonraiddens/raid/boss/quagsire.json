@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "quagsire",
+                    "moves":  [
+                                  "muddywater",
+                                  "amnesia",
+                                  "toxic",
+                                  "earthquake"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

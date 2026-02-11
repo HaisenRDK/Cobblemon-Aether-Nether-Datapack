@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "keldeo",
+                    "moves":  [
+                                  "sacredsword",
+                                  "swordsdance",
+                                  "hydropump",
+                                  "closecombat"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

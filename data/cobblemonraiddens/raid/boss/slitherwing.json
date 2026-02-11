@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "slitherwing",
+                    "moves":  [
+                                  "firstimpression",
+                                  "whirlwind",
+                                  "leechlife",
+                                  "thrash"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

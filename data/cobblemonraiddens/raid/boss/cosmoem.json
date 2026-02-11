@@ -1,0 +1,14 @@
+{
+    "pokemon":  {
+                    "species":  "cosmoem",
+                    "moves":  [
+                                  "cosmicpower",
+                                  "splash",
+                                  "teleport"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

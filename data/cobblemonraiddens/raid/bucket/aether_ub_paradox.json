@@ -1,0 +1,25 @@
+{
+  "weight": 10,
+  "biome": [
+    "#aether:is_aether",
+    "aether:skyroot_meadow",
+    "aether:skyroot_grove",
+    "aether:skyroot_woodland",
+    "aether:skyroot_forest"
+  ],
+  "include": {
+    "boss": ["#cobblemonraiddens:ultra_beasts", "#cobblemonraiddens:paradox"]
+  },
+  "exclude": {
+    "boss": [
+      "#cobblemonraiddens:legendary_mythical",
+      "#cobblemonraiddens:mega",
+      "#cobblemonraiddens:gigantamax",
+      "#cobblemonraiddens:standard",
+      "#cobblemonraiddens:shiny",
+      "#cobblemonraiddens:baby",
+      "#cobblemonraiddens:regional_forms",
+      "#cobblemonraiddens:fossil"
+    ]
+  }
+}

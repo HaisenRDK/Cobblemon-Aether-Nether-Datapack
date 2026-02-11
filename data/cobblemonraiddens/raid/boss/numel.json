@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "numel",
+                    "moves":  [
+                                  "takedown",
+                                  "earthquake",
+                                  "flamethrower",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

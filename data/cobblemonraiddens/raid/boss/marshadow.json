@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "marshadow",
+                    "moves":  [
+                                  "spectralthief",
+                                  "laserfocus",
+                                  "endeavor",
+                                  "closecombat"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

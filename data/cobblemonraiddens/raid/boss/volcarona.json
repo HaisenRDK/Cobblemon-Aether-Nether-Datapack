@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "volcarona",
+                    "moves":  [
+                                  "amnesia",
+                                  "hurricane",
+                                  "fireblast",
+                                  "ragepowder"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

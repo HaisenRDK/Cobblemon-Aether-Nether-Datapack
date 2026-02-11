@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "lairon",
+                    "moves":  [
+                                  "irondefense",
+                                  "heavyslam",
+                                  "doubleedge",
+                                  "metalburst"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "STEEL",
+    "weight":  10
+}
+

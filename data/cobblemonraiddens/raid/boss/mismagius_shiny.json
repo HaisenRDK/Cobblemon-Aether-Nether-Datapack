@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "mismagius",
+                    "moves":  [
+                                  "phantomforce",
+                                  "powergem",
+                                  "psywave",
+                                  "spite"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GHOST",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

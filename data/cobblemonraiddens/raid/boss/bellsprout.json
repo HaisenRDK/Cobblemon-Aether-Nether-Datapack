@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "bellsprout",
+                    "moves":  [
+                                  "razorleaf",
+                                  "poisonjab",
+                                  "slam",
+                                  "powerwhip"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

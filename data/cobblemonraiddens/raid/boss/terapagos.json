@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "terapagos",
+                    "moves":  [
+                                  "terastarstorm",
+                                  "doubleedge",
+                                  "rockpolish",
+                                  "gyroball"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

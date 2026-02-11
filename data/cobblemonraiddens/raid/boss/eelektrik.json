@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "eelektrik",
+                    "moves":  [
+                                  "wildcharge",
+                                  "gastroacid",
+                                  "zapcannon",
+                                  "thrash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

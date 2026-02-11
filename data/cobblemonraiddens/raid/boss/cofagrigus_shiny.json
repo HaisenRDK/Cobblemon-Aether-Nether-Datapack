@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "cofagrigus",
+                    "moves":  [
+                                  "darkpulse",
+                                  "guardsplit",
+                                  "powersplit",
+                                  "destinybond"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GHOST",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

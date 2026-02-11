@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "darkrai",
+                    "moves":  [
+                                  "darkvoid",
+                                  "nastyplot",
+                                  "dreameater",
+                                  "darkpulse"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

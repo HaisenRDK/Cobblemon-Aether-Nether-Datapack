@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "meowscarada",
+                    "moves":  [
+                                  "playrough",
+                                  "knockoff",
+                                  "grassyterrain",
+                                  "leafstorm"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

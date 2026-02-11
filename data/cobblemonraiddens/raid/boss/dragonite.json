@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "dragonite",
+                    "moves":  [
+                                  "safeguard",
+                                  "raindance",
+                                  "dragondance",
+                                  "hyperbeam"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DRAGON",
+    "weight":  10
+}
+

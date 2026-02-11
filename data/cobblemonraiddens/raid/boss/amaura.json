@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "amaura",
+                    "moves":  [
+                                  "lightscreen",
+                                  "hail",
+                                  "blizzard",
+                                  "hyperbeam"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10
+}
+

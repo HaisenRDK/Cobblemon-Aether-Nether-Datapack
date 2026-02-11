@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "perrserker",
+                    "moves":  [
+                                  "screech",
+                                  "slash",
+                                  "metalsound",
+                                  "thrash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "STEEL",
+    "weight":  10
+}
+

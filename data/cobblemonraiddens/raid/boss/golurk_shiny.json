@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "golurk",
+                    "moves":  [
+                                  "phantomforce",
+                                  "hammerarm",
+                                  "earthquake",
+                                  "dynamicpunch"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GROUND",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "wochien",
+                    "moves":  [
+                                  "powerwhip",
+                                  "grassyterrain",
+                                  "knockoff",
+                                  "leafstorm"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

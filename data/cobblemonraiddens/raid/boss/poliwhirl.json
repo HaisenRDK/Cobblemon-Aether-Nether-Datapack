@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "poliwhirl",
+                    "moves":  [
+                                  "earthpower",
+                                  "hydropump",
+                                  "bellydrum",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "clefairy",
+                    "moves":  [
+                                  "followme",
+                                  "cosmicpower",
+                                  "moonblast",
+                                  "healingwish"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FAIRY",
+    "weight":  10
+}
+

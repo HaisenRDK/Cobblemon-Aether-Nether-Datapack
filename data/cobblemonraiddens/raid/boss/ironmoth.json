@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "ironmoth",
+                    "moves":  [
+                                  "morningsun",
+                                  "hurricane",
+                                  "bugbuzz",
+                                  "overheat"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

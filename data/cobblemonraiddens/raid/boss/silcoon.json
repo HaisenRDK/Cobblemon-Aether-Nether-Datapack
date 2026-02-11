@@ -1,0 +1,14 @@
+{
+    "pokemon":  {
+                    "species":  "silcoon",
+                    "moves":  [
+                                  "harden",
+                                  "poisonsting",
+                                  "tackle"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

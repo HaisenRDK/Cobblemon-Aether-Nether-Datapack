@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "ironthorns",
+                    "moves":  [
+                                  "earthquake",
+                                  "stealthrock",
+                                  "stoneedge",
+                                  "gigaimpact"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "ROCK",
+    "weight":  10
+}
+

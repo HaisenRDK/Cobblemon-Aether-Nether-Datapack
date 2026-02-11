@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "kubfu",
+                    "moves":  [
+                                  "dynamicpunch",
+                                  "counter",
+                                  "closecombat",
+                                  "focuspunch"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

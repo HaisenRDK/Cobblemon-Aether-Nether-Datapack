@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "porygonz",
+                    "moves":  [
+                                  "doubleedge",
+                                  "lockon",
+                                  "zapcannon",
+                                  "hyperbeam"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

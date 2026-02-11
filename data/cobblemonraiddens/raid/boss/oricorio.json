@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "oricorio",
+                    "moves":  [
+                                  "airslash",
+                                  "revelationdance",
+                                  "agility",
+                                  "hurricane"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

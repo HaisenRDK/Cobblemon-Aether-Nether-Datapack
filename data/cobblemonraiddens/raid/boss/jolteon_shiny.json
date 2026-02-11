@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "jolteon",
+                    "moves":  [
+                                  "discharge",
+                                  "agility",
+                                  "thunder",
+                                  "lastresort"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "sharpedo",
+                    "moves":  [
+                                  "crunch",
+                                  "agility",
+                                  "liquidation",
+                                  "takedown"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

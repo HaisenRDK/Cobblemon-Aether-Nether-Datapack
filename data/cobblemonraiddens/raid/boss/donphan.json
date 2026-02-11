@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "donphan",
+                    "moves":  [
+                                  "stompingtantrum",
+                                  "scaryface",
+                                  "earthquake",
+                                  "gigaimpact"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GROUND",
+    "weight":  10
+}
+

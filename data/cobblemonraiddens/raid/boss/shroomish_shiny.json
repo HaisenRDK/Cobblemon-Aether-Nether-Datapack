@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "shroomish",
+                    "moves":  [
+                                  "growth",
+                                  "toxic",
+                                  "seedbomb",
+                                  "spore"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

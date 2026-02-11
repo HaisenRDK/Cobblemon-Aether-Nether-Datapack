@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "impidimp",
+                    "moves":  [
+                                  "darkpulse",
+                                  "nastyplot",
+                                  "playrough",
+                                  "foulplay"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

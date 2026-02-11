@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "magmar",
+                    "moves":  [
+                                  "flamethrower",
+                                  "sunnyday",
+                                  "fireblast",
+                                  "hyperbeam"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "spheal",
+                    "moves":  [
+                                  "surf",
+                                  "blizzard",
+                                  "hail",
+                                  "sheercold"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ICE",
+    "weight":  10
+}
+

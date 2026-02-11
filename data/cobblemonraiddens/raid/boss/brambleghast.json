@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "brambleghast",
+                    "moves":  [
+                                  "gigadrain",
+                                  "curse",
+                                  "painsplit",
+                                  "powerwhip"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

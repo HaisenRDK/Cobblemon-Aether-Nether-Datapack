@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "ironboulder",
+                    "moves":  [
+                                  "megahorn",
+                                  "quickguard",
+                                  "stoneedge",
+                                  "gigaimpact"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "ROCK",
+    "weight":  10
+}
+

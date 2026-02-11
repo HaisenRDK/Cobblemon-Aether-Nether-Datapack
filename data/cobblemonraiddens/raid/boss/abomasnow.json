@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "abomasnow",
+                    "moves":  [
+                                  "ingrain",
+                                  "woodhammer",
+                                  "blizzard",
+                                  "sheercold"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

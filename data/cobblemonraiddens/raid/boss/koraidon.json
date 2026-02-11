@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "koraidon",
+                    "moves":  [
+                                  "outrage",
+                                  "closecombat",
+                                  "flareblitz",
+                                  "gigaimpact"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

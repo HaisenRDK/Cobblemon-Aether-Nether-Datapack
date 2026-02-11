@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "carbink",
+                    "moves":  [
+                                  "powergem",
+                                  "stealthrock",
+                                  "moonblast",
+                                  "stoneedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "rapidash",
+                    "moves":  [
+                                  "takedown",
+                                  "inferno",
+                                  "fireblast",
+                                  "flareblitz"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "kilowattrel",
+                    "moves":  [
+                                  "agility",
+                                  "voltswitch",
+                                  "discharge",
+                                  "hurricane"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

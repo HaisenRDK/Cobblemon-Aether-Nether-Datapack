@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "silicobra",
+                    "moves":  [
+                                  "sandstorm",
+                                  "slam",
+                                  "coil",
+                                  "sandtomb"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GROUND",
+    "weight":  10
+}
+

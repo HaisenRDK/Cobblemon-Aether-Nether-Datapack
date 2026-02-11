@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "blitzle",
+                    "moves":  [
+                                  "discharge",
+                                  "agility",
+                                  "wildcharge",
+                                  "thrash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

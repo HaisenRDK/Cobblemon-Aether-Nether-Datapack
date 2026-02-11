@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "cascoon",
+                    "moves":  [
+                                  "harden",
+                                  "poisonsting",
+                                  "tackle"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

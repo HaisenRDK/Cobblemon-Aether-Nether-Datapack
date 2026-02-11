@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "swalot",
+                    "moves":  [
+                                  "swallow",
+                                  "sludgebomb",
+                                  "gastroacid",
+                                  "belch"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "POISON",
+    "weight":  10
+}
+

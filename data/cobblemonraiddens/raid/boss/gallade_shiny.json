@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "gallade",
+                    "moves":  [
+                                  "healpulse",
+                                  "quickguard",
+                                  "wideguard",
+                                  "closecombat"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "PSYCHIC",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

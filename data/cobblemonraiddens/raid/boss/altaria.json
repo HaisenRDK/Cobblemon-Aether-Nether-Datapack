@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "altaria",
+                    "moves":  [
+                                  "takedown",
+                                  "moonblast",
+                                  "perishsong",
+                                  "skyattack"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "DRAGON",
+    "weight":  10
+}
+

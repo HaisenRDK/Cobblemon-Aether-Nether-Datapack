@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "drednaw",
+                    "moves":  [
+                                  "jawlock",
+                                  "liquidation",
+                                  "bodyslam",
+                                  "headsmash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

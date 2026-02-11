@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "barraskewda",
+                    "moves":  [
+                                  "focusenergy",
+                                  "crunch",
+                                  "liquidation",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

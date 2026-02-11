@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "slakoth",
+                    "moves":  [
+                                  "chipaway",
+                                  "counter",
+                                  "flail",
+                                  "playrough"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "sandyshocks",
+                    "moves":  [
+                                  "mirrorcoat",
+                                  "gravity",
+                                  "zapcannon",
+                                  "magneticflux"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

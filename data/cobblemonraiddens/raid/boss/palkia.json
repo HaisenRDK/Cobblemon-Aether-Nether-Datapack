@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "palkia",
+                    "moves":  [
+                                  "aquatail",
+                                  "earthpower",
+                                  "spacialrend",
+                                  "hydropump"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

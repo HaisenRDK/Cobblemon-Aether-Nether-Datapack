@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "meltan",
+                    "moves":  [
+                                  "headbutt",
+                                  "thunderwave",
+                                  "acidarmor",
+                                  "flashcannon"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "STEEL",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "virizion",
+                    "moves":  [
+                                  "sacredsword",
+                                  "swordsdance",
+                                  "leafblade",
+                                  "closecombat"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

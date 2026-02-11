@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "yveltal",
+                    "moves":  [
+                                  "hurricane",
+                                  "focusblast",
+                                  "skyattack",
+                                  "hyperbeam"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

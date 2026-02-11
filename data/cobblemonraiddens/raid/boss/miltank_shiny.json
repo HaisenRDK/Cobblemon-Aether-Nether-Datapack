@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "miltank",
+                    "moves":  [
+                                  "bodyslam",
+                                  "playrough",
+                                  "charm",
+                                  "highhorsepower"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

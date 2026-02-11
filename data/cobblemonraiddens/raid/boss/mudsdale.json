@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "mudsdale",
+                    "moves":  [
+                                  "heavyslam",
+                                  "earthquake",
+                                  "megakick",
+                                  "superpower"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GROUND",
+    "weight":  10
+}
+

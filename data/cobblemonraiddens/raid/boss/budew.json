@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "budew",
+                    "moves":  [
+                                  "megadrain",
+                                  "stunspore",
+                                  "watersport",
+                                  "worryseed"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

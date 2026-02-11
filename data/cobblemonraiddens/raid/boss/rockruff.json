@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "rockruff",
+                    "moves":  [
+                                  "crunch",
+                                  "scaryface",
+                                  "stealthrock",
+                                  "stoneedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10
+}
+

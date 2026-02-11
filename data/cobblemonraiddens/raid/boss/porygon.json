@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "porygon",
+                    "moves":  [
+                                  "triattack",
+                                  "doubleedge",
+                                  "lockon",
+                                  "zapcannon"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

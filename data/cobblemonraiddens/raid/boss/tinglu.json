@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "tinglu",
+                    "moves":  [
+                                  "rockslide",
+                                  "memento",
+                                  "earthquake",
+                                  "fissure"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

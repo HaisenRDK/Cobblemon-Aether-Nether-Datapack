@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "regieleki",
+                    "moves":  [
+                                  "lockon",
+                                  "zapcannon",
+                                  "hyperbeam",
+                                  "explosion"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

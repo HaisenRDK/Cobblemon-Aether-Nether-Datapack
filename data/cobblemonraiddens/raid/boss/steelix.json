@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "steelix",
+                    "moves":  [
+                                  "irontail",
+                                  "stoneedge",
+                                  "doubleedge",
+                                  "magnetrise"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "STEEL",
+    "weight":  10
+}
+

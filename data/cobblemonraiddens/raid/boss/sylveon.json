@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "sylveon",
+                    "moves":  [
+                                  "skillswap",
+                                  "psychup",
+                                  "moonblast",
+                                  "lastresort"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FAIRY",
+    "weight":  10
+}
+

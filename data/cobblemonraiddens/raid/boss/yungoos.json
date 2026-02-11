@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "yungoos",
+                    "moves":  [
+                                  "crunch",
+                                  "hyperfang",
+                                  "thrash",
+                                  "rest"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "tsareena",
+                    "moves":  [
+                                  "teeterdance",
+                                  "aromaticmist",
+                                  "leafstorm",
+                                  "highjumpkick"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "muk",
+                    "moves":  [
+                                  "gunkshot",
+                                  "acidarmor",
+                                  "belch",
+                                  "memento"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "POISON",
+    "weight":  10
+}
+

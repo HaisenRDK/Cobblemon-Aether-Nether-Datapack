@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "persian",
+                    "moves":  [
+                                  "screech",
+                                  "slash",
+                                  "nastyplot",
+                                  "playrough"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

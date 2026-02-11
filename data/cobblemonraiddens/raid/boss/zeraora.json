@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "zeraora",
+                    "moves":  [
+                                  "wildcharge",
+                                  "agility",
+                                  "plasmafists",
+                                  "closecombat"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

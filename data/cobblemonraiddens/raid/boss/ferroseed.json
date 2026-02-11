@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "ferroseed",
+                    "moves":  [
+                                  "irondefense",
+                                  "curse",
+                                  "gyroball",
+                                  "explosion"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

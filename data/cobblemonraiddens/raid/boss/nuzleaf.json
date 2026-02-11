@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "nuzleaf",
+                    "moves":  [
+                                  "sunnyday",
+                                  "extrasensory",
+                                  "suckerpunch",
+                                  "leafblade"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

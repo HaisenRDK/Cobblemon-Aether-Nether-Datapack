@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "bronzor",
+                    "moves":  [
+                                  "heavyslam",
+                                  "irondefense",
+                                  "metalsound",
+                                  "futuresight"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "STEEL",
+    "weight":  10
+}
+

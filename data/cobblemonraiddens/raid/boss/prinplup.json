@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "prinplup",
+                    "moves":  [
+                                  "whirlpool",
+                                  "mist",
+                                  "drillpeck",
+                                  "hydropump"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "rampardos",
+                    "moves":  [
+                                  "ancientpower",
+                                  "zenheadbutt",
+                                  "screech",
+                                  "headsmash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10
+}
+

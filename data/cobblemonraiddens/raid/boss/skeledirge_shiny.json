@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "skeledirge",
+                    "moves":  [
+                                  "hex",
+                                  "willowisp",
+                                  "fireblast",
+                                  "overheat"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

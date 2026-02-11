@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "salamence",
+                    "moves":  [
+                                  "zenheadbutt",
+                                  "focusenergy",
+                                  "flamethrower",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "DRAGON",
+    "weight":  10
+}
+

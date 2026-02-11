@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "pansear",
+                    "moves":  [
+                                  "fireblast",
+                                  "recycle",
+                                  "naturalgift",
+                                  "crunch"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

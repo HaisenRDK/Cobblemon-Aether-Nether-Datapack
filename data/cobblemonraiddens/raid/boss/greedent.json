@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "greedent",
+                    "moves":  [
+                                  "counter",
+                                  "bulletseed",
+                                  "superfang",
+                                  "belch"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

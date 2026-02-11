@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "victini",
+                    "moves":  [
+                                  "doubleedge",
+                                  "flareblitz",
+                                  "overheat",
+                                  "finalgambit"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

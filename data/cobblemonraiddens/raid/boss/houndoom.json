@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "houndoom",
+                    "moves":  [
+                                  "foulplay",
+                                  "flamethrower",
+                                  "crunch",
+                                  "inferno"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

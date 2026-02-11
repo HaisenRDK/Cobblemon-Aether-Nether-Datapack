@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "nymble",
+                    "moves":  [
+                                  "feint",
+                                  "agility",
+                                  "suckerpunch",
+                                  "firstimpression"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

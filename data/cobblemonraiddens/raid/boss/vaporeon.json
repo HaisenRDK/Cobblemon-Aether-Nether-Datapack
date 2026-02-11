@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "vaporeon",
+                    "moves":  [
+                                  "muddywater",
+                                  "acidarmor",
+                                  "hydropump",
+                                  "lastresort"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

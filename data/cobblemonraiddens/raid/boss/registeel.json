@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "registeel",
+                    "moves":  [
+                                  "lockon",
+                                  "zapcannon",
+                                  "hyperbeam",
+                                  "explosion"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "STEEL",
+    "weight":  10
+}
+

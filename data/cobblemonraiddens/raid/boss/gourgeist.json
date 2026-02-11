@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "gourgeist",
+                    "moves":  [
+                                  "shadowball",
+                                  "trick",
+                                  "painsplit",
+                                  "phantomforce"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GHOST",
+    "weight":  10
+}
+

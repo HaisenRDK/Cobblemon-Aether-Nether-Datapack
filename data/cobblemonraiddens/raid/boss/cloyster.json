@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "cloyster",
+                    "moves":  [
+                                  "watergun",
+                                  "whirlpool",
+                                  "withdraw",
+                                  "razorshell"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

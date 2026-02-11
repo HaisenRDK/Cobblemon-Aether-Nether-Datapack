@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "wishiwashi",
+                    "moves":  [
+                                  "aquaring",
+                                  "endeavor",
+                                  "hydropump",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

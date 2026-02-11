@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "chesnaught",
+                    "moves":  [
+                                  "bodyslam",
+                                  "painsplit",
+                                  "woodhammer",
+                                  "gigaimpact"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

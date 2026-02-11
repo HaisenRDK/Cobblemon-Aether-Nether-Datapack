@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "glimmet",
+                    "moves":  [
+                                  "rockslide",
+                                  "powergem",
+                                  "acidarmor",
+                                  "sludgewave"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

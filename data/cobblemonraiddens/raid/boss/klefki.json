@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "klefki",
+                    "moves":  [
+                                  "playrough",
+                                  "magicroom",
+                                  "foulplay",
+                                  "lastresort"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "STEEL",
+    "weight":  10
+}
+

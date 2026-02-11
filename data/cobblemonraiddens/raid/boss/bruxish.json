@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "bruxish",
+                    "moves":  [
+                                  "aquatail",
+                                  "screech",
+                                  "psychicfangs",
+                                  "wavecrash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

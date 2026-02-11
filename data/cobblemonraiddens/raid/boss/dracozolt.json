@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "dracozolt",
+                    "moves":  [
+                                  "discharge",
+                                  "boltbeak",
+                                  "dragonpulse",
+                                  "dragonrush"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

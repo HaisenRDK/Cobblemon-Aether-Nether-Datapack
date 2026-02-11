@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "irontreads",
+                    "moves":  [
+                                  "endeavor",
+                                  "megahorn",
+                                  "gigaimpact",
+                                  "steelroller"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "GROUND",
+    "weight":  10
+}
+

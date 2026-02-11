@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "mareanie",
+                    "moves":  [
+                                  "liquidation",
+                                  "acidspray",
+                                  "poisonjab",
+                                  "toxic"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "POISON",
+    "weight":  10
+}
+

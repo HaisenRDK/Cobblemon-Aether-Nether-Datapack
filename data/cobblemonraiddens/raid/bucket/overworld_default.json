@@ -1,0 +1,22 @@
+{
+  "weight": 10,
+  "biome": ["#minecraft:is_overworld"],
+  "include": {
+    "boss": [
+      "#cobblemonraiddens:standard",
+      "#cobblemonraiddens:baby",
+      "#cobblemonraiddens:regional_forms",
+      "#cobblemonraiddens:fossil"
+    ]
+  },
+  "exclude": {
+    "boss": [
+      "#cobblemonraiddens:legendary_mythical",
+      "#cobblemonraiddens:mega",
+      "#cobblemonraiddens:shiny",
+      "#cobblemonraiddens:gigantamax",
+      "#cobblemonraiddens:ultra_beasts",
+      "#cobblemonraiddens:paradox"
+    ]
+  }
+}

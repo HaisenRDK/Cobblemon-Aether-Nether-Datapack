@@ -1,0 +1,16 @@
+{
+    "config":  {
+                   "state":  {
+                                 "Properties":  {
+                                                    "cycle_mode":  "bucket",
+                                                    "is_active":  "true",
+                                                    "raid_tier":  "tier_one",
+                                                    "can_reset":  "true",
+                                                    "raid_type":  "stellar"
+                                                },
+                                 "Name":  "cobblemonraiddens:raid_crystal_block"
+                             }
+               },
+    "type":  "cobblemonraiddens:raid_den_feature"
+}
+

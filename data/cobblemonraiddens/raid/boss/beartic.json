@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "beartic",
+                    "moves":  [
+                                  "rest",
+                                  "blizzard",
+                                  "sheercold",
+                                  "superpower"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ICE",
+    "weight":  10
+}
+

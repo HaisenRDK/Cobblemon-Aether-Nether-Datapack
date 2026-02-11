@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "landorus",
+                    "moves":  [
+                                  "earthquake",
+                                  "outrage",
+                                  "fissure",
+                                  "sandsearstorm"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "GROUND",
+    "weight":  10
+}
+

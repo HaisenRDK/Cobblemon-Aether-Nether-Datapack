@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "yamask",
+                    "moves":  [
+                                  "darkpulse",
+                                  "guardsplit",
+                                  "powersplit",
+                                  "destinybond"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GHOST",
+    "weight":  10
+}
+

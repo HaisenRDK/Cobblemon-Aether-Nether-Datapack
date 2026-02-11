@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "mightyena",
+                    "moves":  [
+                                  "yawn",
+                                  "takedown",
+                                  "suckerpunch",
+                                  "playrough"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

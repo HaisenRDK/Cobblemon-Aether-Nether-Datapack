@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "lillipup",
+                    "moves":  [
+                                  "reversal",
+                                  "roar",
+                                  "lastresort",
+                                  "gigaimpact"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

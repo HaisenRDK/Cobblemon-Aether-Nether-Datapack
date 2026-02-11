@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "krokorok",
+                    "moves":  [
+                                  "sandstorm",
+                                  "foulplay",
+                                  "earthquake",
+                                  "thrash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GROUND",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

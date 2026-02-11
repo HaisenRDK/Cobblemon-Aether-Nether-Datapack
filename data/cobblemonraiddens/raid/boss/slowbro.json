@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "slowbro",
+                    "moves":  [
+                                  "psychic",
+                                  "psychup",
+                                  "raindance",
+                                  "healpulse"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

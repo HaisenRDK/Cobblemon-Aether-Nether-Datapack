@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "magneton",
+                    "moves":  [
+                                  "metalsound",
+                                  "lightscreen",
+                                  "lockon",
+                                  "zapcannon"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

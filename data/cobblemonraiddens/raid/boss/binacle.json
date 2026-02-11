@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "binacle",
+                    "moves":  [
+                                  "honeclaws",
+                                  "razorshell",
+                                  "shellsmash",
+                                  "crosschop"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10
+}
+

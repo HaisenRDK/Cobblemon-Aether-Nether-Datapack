@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "monferno",
+                    "moves":  [
+                                  "firespin",
+                                  "acrobatics",
+                                  "slackoff",
+                                  "flareblitz"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

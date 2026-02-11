@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "treecko",
+                    "moves":  [
+                                  "energyball",
+                                  "screech",
+                                  "endeavor",
+                                  "leafstorm"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

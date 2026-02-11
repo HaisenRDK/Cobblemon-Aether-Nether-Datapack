@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "venomoth",
+                    "moves":  [
+                                  "leechlife",
+                                  "zenheadbutt",
+                                  "poisonfang",
+                                  "psychic"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

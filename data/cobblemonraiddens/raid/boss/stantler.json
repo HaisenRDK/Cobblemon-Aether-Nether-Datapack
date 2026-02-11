@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "stantler",
+                    "moves":  [
+                                  "roleplay",
+                                  "zenheadbutt",
+                                  "imprison",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

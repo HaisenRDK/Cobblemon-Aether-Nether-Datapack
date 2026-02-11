@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "xurkitree",
+                    "moves":  [
+                                  "thunderbolt",
+                                  "electricterrain",
+                                  "powerwhip",
+                                  "zapcannon"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

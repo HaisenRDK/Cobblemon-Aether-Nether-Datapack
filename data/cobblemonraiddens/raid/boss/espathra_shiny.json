@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "espathra",
+                    "moves":  [
+                                  "uproar",
+                                  "dazzlinggleam",
+                                  "psychic",
+                                  "lastresort"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "PSYCHIC",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

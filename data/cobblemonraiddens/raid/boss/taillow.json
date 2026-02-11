@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "taillow",
+                    "moves":  [
+                                  "airslash",
+                                  "endeavor",
+                                  "bravebird",
+                                  "reversal"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

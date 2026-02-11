@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "cubchoo",
+                    "moves":  [
+                                  "thrash",
+                                  "rest",
+                                  "blizzard",
+                                  "sheercold"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ICE",
+    "weight":  10
+}
+

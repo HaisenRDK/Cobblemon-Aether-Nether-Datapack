@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "girafarig",
+                    "moves":  [
+                                  "crunch",
+                                  "batonpass",
+                                  "nastyplot",
+                                  "psychic"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

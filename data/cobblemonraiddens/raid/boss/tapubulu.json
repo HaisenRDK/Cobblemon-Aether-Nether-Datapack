@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "tapubulu",
+                    "moves":  [
+                                  "woodhammer",
+                                  "megahorn",
+                                  "skullbash",
+                                  "grassyterrain"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

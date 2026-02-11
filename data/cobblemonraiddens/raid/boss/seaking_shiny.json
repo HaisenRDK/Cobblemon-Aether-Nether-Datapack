@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "seaking",
+                    "moves":  [
+                                  "waterfall",
+                                  "soak",
+                                  "megahorn",
+                                  "horndrill"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

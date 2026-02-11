@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "bergmite",
+                    "moves":  [
+                                  "crunch",
+                                  "takedown",
+                                  "blizzard",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ICE",
+    "weight":  10
+}
+

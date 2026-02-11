@@ -1,0 +1,94 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "name": "cobblemon:clever_feather",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "name": "cobblemon:genius_feather",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "name": "cobblemon:health_feather",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "name": "cobblemon:muscle_feather",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "name": "cobblemon:resist_feather",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ],
+          "name": "cobblemon:swift_feather",
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:generic"
+}

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "kadabra",
+                    "moves":  [
+                                  "psychic",
+                                  "roleplay",
+                                  "futuresight",
+                                  "calmmind"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

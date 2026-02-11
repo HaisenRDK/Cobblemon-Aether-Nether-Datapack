@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "swampert",
+                    "moves":  [
+                                  "muddywater",
+                                  "screech",
+                                  "endeavor",
+                                  "hydropump"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

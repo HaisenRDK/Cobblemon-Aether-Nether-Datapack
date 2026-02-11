@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "scrafty",
+                    "moves":  [
+                                  "crunch",
+                                  "highjumpkick",
+                                  "focuspunch",
+                                  "headsmash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

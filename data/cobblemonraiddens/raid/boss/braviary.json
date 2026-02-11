@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "braviary",
+                    "moves":  [
+                                  "crushclaw",
+                                  "airslash",
+                                  "defog",
+                                  "thrash"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

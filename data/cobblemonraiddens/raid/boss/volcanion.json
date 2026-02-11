@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "volcanion",
+                    "moves":  [
+                                  "hydropump",
+                                  "flareblitz",
+                                  "overheat",
+                                  "explosion"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "FIRE",
+    "weight":  10
+}
+

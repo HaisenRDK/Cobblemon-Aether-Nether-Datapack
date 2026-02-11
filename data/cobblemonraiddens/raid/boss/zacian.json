@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "zacian",
+                    "moves":  [
+                                  "crunch",
+                                  "moonblast",
+                                  "closecombat",
+                                  "gigaimpact"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "FAIRY",
+    "weight":  10
+}
+

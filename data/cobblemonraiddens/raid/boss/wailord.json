@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "wailord",
+                    "moves":  [
+                                  "rest",
+                                  "amnesia",
+                                  "hydropump",
+                                  "waterspout"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

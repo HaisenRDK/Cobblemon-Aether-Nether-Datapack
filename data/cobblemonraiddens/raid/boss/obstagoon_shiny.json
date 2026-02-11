@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "obstagoon",
+                    "moves":  [
+                                  "scaryface",
+                                  "counter",
+                                  "taunt",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DARK",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

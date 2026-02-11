@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "flapple",
+                    "moves":  [
+                                  "gravapple",
+                                  "irondefense",
+                                  "fly",
+                                  "dragonrush"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "deerling",
+                    "moves":  [
+                                  "aromatherapy",
+                                  "charm",
+                                  "doubleedge",
+                                  "solarbeam"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "pidgeot",
+                    "moves":  [
+                                  "roost",
+                                  "tailwind",
+                                  "mirrormove",
+                                  "airslash"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

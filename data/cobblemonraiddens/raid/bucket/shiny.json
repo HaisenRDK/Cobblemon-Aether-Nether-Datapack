@@ -1,0 +1,20 @@
+{
+  "weight": 10,
+  "biome": ["#minecraft:is_end", "#stellarity:biomes/all"],
+  "include": {
+    "boss": ["#cobblemonraiddens:shiny"]
+  },
+  "exclude": {
+    "boss": [
+      "#cobblemonraiddens:legendary_mythical",
+      "#cobblemonraiddens:mega",
+      "#cobblemonraiddens:standard",
+      "#cobblemonraiddens:baby",
+      "#cobblemonraiddens:regional_forms",
+      "#cobblemonraiddens:fossil",
+      "#cobblemonraiddens:gigantamax",
+      "#cobblemonraiddens:ultra_beasts",
+      "#cobblemonraiddens:paradox"
+    ]
+  }
+}

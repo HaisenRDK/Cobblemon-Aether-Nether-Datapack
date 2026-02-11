@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "munchlax",
+                    "moves":  [
+                                  "metronome",
+                                  "flail",
+                                  "bellydrum",
+                                  "lastresort"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "NORMAL",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

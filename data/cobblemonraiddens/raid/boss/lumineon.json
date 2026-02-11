@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "lumineon",
+                    "moves":  [
+                                  "whirlpool",
+                                  "uturn",
+                                  "bounce",
+                                  "tailwind"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

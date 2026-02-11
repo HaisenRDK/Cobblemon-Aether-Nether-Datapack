@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "nacli",
+                    "moves":  [
+                                  "stealthrock",
+                                  "heavyslam",
+                                  "earthquake",
+                                  "stoneedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ROCK",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

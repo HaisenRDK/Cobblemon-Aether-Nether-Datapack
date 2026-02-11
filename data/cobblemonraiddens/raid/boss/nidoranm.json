@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "nidoranm",
+                    "moves":  [
+                                  "toxic",
+                                  "flatter",
+                                  "poisonjab",
+                                  "earthpower"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "POISON",
+    "weight":  10
+}
+

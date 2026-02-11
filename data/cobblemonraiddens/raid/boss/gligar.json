@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "gligar",
+                    "moves":  [
+                                  "screech",
+                                  "xscissor",
+                                  "skyuppercut",
+                                  "swordsdance"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GROUND",
+    "weight":  10
+}
+

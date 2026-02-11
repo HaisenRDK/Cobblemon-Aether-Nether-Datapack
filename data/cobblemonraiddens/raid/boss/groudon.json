@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "groudon",
+                    "moves":  [
+                                  "rest",
+                                  "fireblast",
+                                  "solarbeam",
+                                  "eruption"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "GROUND",
+    "weight":  10
+}
+

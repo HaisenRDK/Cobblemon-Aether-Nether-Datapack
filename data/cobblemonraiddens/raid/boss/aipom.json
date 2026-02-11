@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "aipom",
+                    "moves":  [
+                                  "doublehit",
+                                  "fling",
+                                  "nastyplot",
+                                  "lastresort"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

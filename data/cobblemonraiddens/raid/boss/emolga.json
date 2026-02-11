@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "emolga",
+                    "moves":  [
+                                  "voltswitch",
+                                  "lightscreen",
+                                  "discharge",
+                                  "agility"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

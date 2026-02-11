@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "drifloon",
+                    "moves":  [
+                                  "destinybond",
+                                  "batonpass",
+                                  "tailwind",
+                                  "explosion"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GHOST",
+    "weight":  10
+}
+

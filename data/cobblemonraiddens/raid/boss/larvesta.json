@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "larvesta",
+                    "moves":  [
+                                  "takedown",
+                                  "amnesia",
+                                  "doubleedge",
+                                  "flareblitz"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

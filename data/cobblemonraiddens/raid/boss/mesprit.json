@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "mesprit",
+                    "moves":  [
+                                  "futuresight",
+                                  "copycat",
+                                  "healingwish",
+                                  "mysticalpower"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

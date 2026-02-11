@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "toxel",
+                    "moves":  [
+                                  "flail",
+                                  "growl",
+                                  "nuzzle",
+                                  "tearfullook"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

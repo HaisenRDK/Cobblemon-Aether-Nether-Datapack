@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "frillish",
+                    "moves":  [
+                                  "whirlpool",
+                                  "hydropump",
+                                  "destinybond",
+                                  "waterspout"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "WATER",
+    "weight":  10
+}
+

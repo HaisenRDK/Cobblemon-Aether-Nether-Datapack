@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "mimejr",
+                    "moves":  [
+                                  "suckerpunch",
+                                  "dazzlinggleam",
+                                  "psychic",
+                                  "teeterdance"
+                              ]
+                },
+    "raid_tier":  "TIER_TWO",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

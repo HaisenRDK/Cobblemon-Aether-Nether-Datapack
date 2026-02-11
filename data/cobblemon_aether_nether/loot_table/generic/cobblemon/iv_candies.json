@@ -1,0 +1,47 @@
+{
+  "pools": [
+    {
+      "functions": [
+        {
+          "function": "minecraft:set_count",
+          "count": { "min": 1, "max": 4 },
+          "add": false
+        }
+      ],
+      "entries": [
+        {
+          "name": "cobblemon:courage_candy",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:health_candy",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:mighty_candy",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:quick_candy",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:smart_candy",
+          "type": "minecraft:item",
+          "weight": 1
+        },
+        {
+          "name": "cobblemon:tough_candy",
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "type": "minecraft:generic"
+}

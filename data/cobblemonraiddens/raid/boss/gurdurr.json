@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "gurdurr",
+                    "moves":  [
+                                  "hammerarm",
+                                  "stoneedge",
+                                  "superpower",
+                                  "focuspunch"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FIGHTING",
+    "weight":  10
+}
+

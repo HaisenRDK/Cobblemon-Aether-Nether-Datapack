@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "munna",
+                    "moves":  [
+                                  "moonblast",
+                                  "dreameater",
+                                  "futuresight",
+                                  "wonderroom"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

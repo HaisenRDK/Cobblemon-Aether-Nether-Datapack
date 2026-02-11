@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "togekiss",
+                    "moves":  [
+                                  "sweetkiss",
+                                  "triattack",
+                                  "wish",
+                                  "yawn"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "FAIRY",
+    "weight":  10
+}
+

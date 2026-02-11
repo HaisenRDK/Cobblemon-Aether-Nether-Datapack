@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "azelf",
+                    "moves":  [
+                                  "futuresight",
+                                  "lastresort",
+                                  "explosion",
+                                  "mysticalpower"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "PSYCHIC",
+    "weight":  10
+}
+

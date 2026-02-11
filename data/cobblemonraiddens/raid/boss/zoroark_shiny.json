@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "zoroark",
+                    "moves":  [
+                                  "imprison",
+                                  "nightdaze",
+                                  "nastyplot",
+                                  "foulplay"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DARK",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

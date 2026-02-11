@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "kangaskhan",
+                    "moves":  [
+                                  "endure",
+                                  "reversal",
+                                  "outrage",
+                                  "lastresort"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

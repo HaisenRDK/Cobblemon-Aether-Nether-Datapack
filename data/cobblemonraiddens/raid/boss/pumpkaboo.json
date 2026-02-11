@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "pumpkaboo",
+                    "moves":  [
+                                  "seedbomb",
+                                  "shadowball",
+                                  "trick",
+                                  "painsplit"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GHOST",
+    "weight":  10
+}
+

@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "banette",
+                    "moves":  [
+                                  "roleplay",
+                                  "suckerpunch",
+                                  "trick",
+                                  "phantomforce"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "GHOST",
+    "weight":  10
+}
+

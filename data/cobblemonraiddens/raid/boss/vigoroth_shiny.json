@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "vigoroth",
+                    "moves":  [
+                                  "chipaway",
+                                  "counter",
+                                  "focuspunch",
+                                  "reversal"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

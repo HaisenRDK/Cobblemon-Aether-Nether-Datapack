@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "pheromosa",
+                    "moves":  [
+                                  "speedswap",
+                                  "bugbuzz",
+                                  "quiverdance",
+                                  "highjumpkick"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "BUG",
+    "weight":  10
+}
+

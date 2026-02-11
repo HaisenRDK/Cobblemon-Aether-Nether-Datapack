@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "munkidori",
+                    "moves":  [
+                                  "sludgewave",
+                                  "nastyplot",
+                                  "futuresight",
+                                  "partingshot"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "POISON",
+    "weight":  10
+}
+

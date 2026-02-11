@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "blissey",
+                    "moves":  [
+                                  "doubleedge",
+                                  "softboiled",
+                                  "lastresort",
+                                  "healingwish"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

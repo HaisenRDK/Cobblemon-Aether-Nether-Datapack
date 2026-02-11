@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "greavard",
+                    "moves":  [
+                                  "helpinghand",
+                                  "phantomforce",
+                                  "charm",
+                                  "doubleedge"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GHOST",
+    "weight":  10
+}
+

@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "simisage",
+                    "moves":  [
+                                  "playnice",
+                                  "scratch",
+                                  "seedbomb",
+                                  "vinewhip"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "GRASS",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

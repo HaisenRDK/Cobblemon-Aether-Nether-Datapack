@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "weavile",
+                    "moves":  [
+                                  "nastyplot",
+                                  "screech",
+                                  "nightslash",
+                                  "darkpulse"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "DARK",
+    "weight":  10
+}
+

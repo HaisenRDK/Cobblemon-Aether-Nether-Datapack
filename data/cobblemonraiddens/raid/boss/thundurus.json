@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "thundurus",
+                    "moves":  [
+                                  "raindance",
+                                  "thunder",
+                                  "thrash",
+                                  "wildboltstorm"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

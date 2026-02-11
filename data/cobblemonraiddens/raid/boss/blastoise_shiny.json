@@ -1,0 +1,16 @@
+{
+    "pokemon":  {
+                    "species":  "blastoise",
+                    "moves":  [
+                                  "shellsmash",
+                                  "irondefense",
+                                  "hydropump",
+                                  "wavecrash"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "WATER",
+    "weight":  10,
+    "shiny_rate":  1
+}
+

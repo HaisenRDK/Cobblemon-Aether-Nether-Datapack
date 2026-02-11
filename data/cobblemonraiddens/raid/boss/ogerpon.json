@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "ogerpon",
+                    "moves":  [
+                                  "spikyshield",
+                                  "powerwhip",
+                                  "superpower",
+                                  "woodhammer"
+                              ]
+                },
+    "raid_tier":  "TIER_SIX",
+    "raid_type":  "GRASS",
+    "weight":  10
+}
+

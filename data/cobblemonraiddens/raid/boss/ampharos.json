@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "ampharos",
+                    "moves":  [
+                                  "cottonguard",
+                                  "dazzlinggleam",
+                                  "lightscreen",
+                                  "thunder"
+                              ]
+                },
+    "raid_tier":  "TIER_FIVE",
+    "raid_type":  "ELECTRIC",
+    "weight":  10
+}
+

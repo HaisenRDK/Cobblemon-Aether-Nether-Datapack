@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "cinccino",
+                    "moves":  [
+                                  "slam",
+                                  "swift",
+                                  "tailslap",
+                                  "tickle"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+

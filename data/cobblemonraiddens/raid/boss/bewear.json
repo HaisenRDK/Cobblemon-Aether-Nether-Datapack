@@ -1,0 +1,15 @@
+{
+    "pokemon":  {
+                    "species":  "bewear",
+                    "moves":  [
+                                  "thrash",
+                                  "painsplit",
+                                  "doubleedge",
+                                  "superpower"
+                              ]
+                },
+    "raid_tier":  "TIER_THREE",
+    "raid_type":  "NORMAL",
+    "weight":  10
+}
+
