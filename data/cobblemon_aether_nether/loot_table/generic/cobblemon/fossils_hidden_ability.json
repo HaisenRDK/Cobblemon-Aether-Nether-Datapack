@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fossilsplus:ha_fossil",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}
