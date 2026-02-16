@@ -1,0 +1,71 @@
+{
+  "condition": "minecraft:any_of",
+  "terms": [
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "structure": "bca:village/default_small"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "structure": "bca:village/default_mid"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "structure": "bca:village/default_large"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "structure": "bca:village/fighting_small"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "structure": "bca:village/fighting_mid"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "structure": "bca:village/fighting_large"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "structure": "bca:village/ice_small"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "structure": "bca:village/ice_mid"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "structure": "bca:village/ice_large"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "structure": "bca:village/dark_small"
+      }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "structure": "bca:village/dark_mid"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "unique_id": "yveltal_deepdark",
+  "display_name": "§5Yveltal - Fleau du Deep Dark",
+  "species_id": "cobblemon:yveltal",
+  "spawn_rule": {
+    "spawn_locations": ["land"],
+    "spawn_times": ["night"],
+    "spawn_biomes": ["minecraft:deep_dark"],
+    "spawn_weight": 0
+  },
+  "reward_rule": {
+    "reward_items": [
+      {
+        "item_id": "megashowdown:zygarde_core",
+        "count": 1
+      }
+    ]
+  },
+  "random_configs": [
+    {
+      "shiny": false,
+      "effort_values": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "moves": ["oblivionwing", "darkpulse", "heatwave", "roost"],
+      "nature": "jolly",
+      "ability": "darkaura",
+      "form": "",
+      "held_items": ["cobblemon:leftovers"]
+    }
+  ]
+}

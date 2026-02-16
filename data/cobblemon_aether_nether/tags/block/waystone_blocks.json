@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "waystones:waystone",
+      "required": false
+    },
+    {
+      "id": "fabric_waystones:waystone",
+      "required": false
+    },
+    {
+      "id": "ftbwaystones:waystone",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "mega_showdown:wellspring_mask",
+      "required": false
+    },
+    {
+      "id": "mega_showdown:hearthflame_mask",
+      "required": false
+    },
+    {
+      "id": "mega_showdown:cornerstone_mask",
+      "required": false
+    },
+    {
+      "id": "mega_showdown:teal_mask",
+      "required": false
+    }
+  ]
+}

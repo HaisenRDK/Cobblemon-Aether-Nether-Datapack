@@ -1,0 +1,37 @@
+{
+  "unique_id": "rayquaza_end",
+  "display_name": "Rayquaza - Souverain de l'End",
+  "species_id": "cobblemon:rayquaza",
+  "spawn_rule": {
+    "spawn_locations": ["sky"],
+    "spawn_times": ["night"],
+    "spawn_biomes": ["minecraft:end_highlands"],
+    "spawn_weight": 0
+  },
+  "reward_rule": {
+    "reward_items": [
+      {
+        "item_id": "cobblemon:rare_candy",
+        "count": 12
+      }
+    ]
+  },
+  "random_configs": [
+    {
+      "shiny": false,
+      "effort_values": {
+        "hp": 252,
+        "attack": 252,
+        "defense": 0,
+        "special_attack": 0,
+        "special_defense": 4,
+        "speed": 252
+      },
+      "moves": ["dragonascent", "earthquake", "extremespeed", "dragondance"],
+      "nature": "jolly",
+      "ability": "airlock",
+      "form": "",
+      "held_items": ["cobblemon:life_orb"]
+    }
+  ]
+}

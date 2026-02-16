@@ -1,0 +1,7 @@
+{
+  "condition": "minecraft:location_check",
+  "predicate": {
+    "biome": "minecraft:deep_dark",
+    "structure": "minecraft:ancient_city"
+  }
+}
