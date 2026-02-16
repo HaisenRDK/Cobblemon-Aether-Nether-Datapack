@@ -5,6 +5,26 @@
       "required": false
     },
     {
+      "id": "waystones:mossy_waystone",
+      "required": false
+    },
+    {
+      "id": "waystones:sandy_waystone",
+      "required": false
+    },
+    {
+      "id": "waystones:deepslate_waystone",
+      "required": false
+    },
+    {
+      "id": "waystones:blackstone_waystone",
+      "required": false
+    },
+    {
+      "id": "waystones:end_stone_waystone",
+      "required": false
+    },
+    {
       "id": "fabric_waystones:waystone",
       "required": false
     },
