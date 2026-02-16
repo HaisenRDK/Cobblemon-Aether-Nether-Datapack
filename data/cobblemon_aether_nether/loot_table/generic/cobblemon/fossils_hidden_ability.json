@@ -6,8 +6,13 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "fossilsplus:ha_fossil",
+          "name": "fossilsplus:shiny_fossil",
           "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fossilsplus:ha_fossil",
+          "weight": 10
         }
       ]
     }

@@ -1,13 +1,12 @@
 {
-  "type": "minecraft:archaeology",
+  "type": "minecraft:chest",
   "pools": [
     {
       "rolls": 1,
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "cobblemon_aether_nether:generic/cobblemon/fossils_shiny",
-          "weight": 1
+          "value": "cobblemon_aether_nether:generic/dimension/nether_chests"
         }
       ]
     }

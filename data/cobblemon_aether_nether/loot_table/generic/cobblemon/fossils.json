@@ -76,6 +76,11 @@
           "name": "cobblemon:skull_fossil",
           "type": "minecraft:item",
           "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fossilsplus:shiny_fossil",
+          "weight": 1
         }
       ],
       "rolls": 1

@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:chest",
   "pools": [
     {
@@ -18,7 +18,7 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "cobblemon:iv_candies",
+          "name": "cobblemon:mochis",
           "weight": 5
         },
         {
@@ -94,4 +94,5 @@
     }
   ]
 }
+
 

@@ -70,36 +70,6 @@
       ]
     },
     {
-      "rolls": {
-        "min": 1,
-        "max": 2
-      },
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "value": "cobblemon_aether_nether:generic/candy/candy_t3"
-        }
-      ]
-    },
-    {
-      "rolls": {
-        "min": 1,
-        "max": 2
-      },
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "value": "cobblemon_aether_nether:generic/candy/candy_t4",
-          "weight": 80
-        },
-        {
-          "type": "minecraft:loot_table",
-          "value": "cobblemon_aether_nether:generic/candy/candy_t5",
-          "weight": 20
-        }
-      ]
-    },
-    {
       "rolls": 1,
       "entries": [
         {
@@ -140,7 +110,7 @@
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.06
+          "chance": 0.1
         }
       ]
     },
@@ -215,7 +185,7 @@
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.05
+          "chance": 0.2
         }
       ]
     },
@@ -230,7 +200,7 @@
       "conditions": [
         {
           "condition": "minecraft:random_chance",
-          "chance": 0.03
+          "chance": 0.2
         }
       ]
     }

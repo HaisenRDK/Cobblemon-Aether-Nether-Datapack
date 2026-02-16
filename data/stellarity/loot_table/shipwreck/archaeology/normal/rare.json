@@ -1,15 +1,15 @@
 {
-    "type":  "minecraft:archaeology",
-    "pools":  [
-                  {
-                      "rolls":  1,
-                      "entries":  [
-                                      {
-                                          "type":  "minecraft:loot_table",
-                                          "value":  "cobblemon_aether_nether:generic/cobblemon/fossils",
-                                          "weight":  1
-                                      }
-                                  ]
-                  }
-              ]
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "cobblemon_aether_nether:generic/cobblemon/fossils_hidden_ability",
+          "weight": 1
+        }
+      ]
+    }
+  ]
 }
