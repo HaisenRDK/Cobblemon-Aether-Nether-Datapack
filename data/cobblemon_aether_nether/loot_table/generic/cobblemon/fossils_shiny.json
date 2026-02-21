@@ -81,7 +81,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "fossilsplus:shiny_fossil",
+          "name": "cobblesafari:fossil_shiny",
           "weight": 50
         }
       ]

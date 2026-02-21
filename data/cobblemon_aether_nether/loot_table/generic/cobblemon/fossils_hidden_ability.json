@@ -6,12 +6,12 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "fossilsplus:shiny_fossil",
+          "name": "cobblesafari:fossil_shiny",
           "weight": 1
         },
         {
           "type": "minecraft:item",
-          "name": "fossilsplus:ha_fossil",
+          "name": "cobblesafari:fossil_hidden_ability",
           "weight": 10
         }
       ]
